@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # Works
 
 ## Apps
-- [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
+- Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
 
 ## Thesis
 
