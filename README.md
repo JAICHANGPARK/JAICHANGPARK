@@ -1,3 +1,4 @@
+# Welcome
 ## Hi there 👋
 
 [![Dreamwalker's github stats](https://github-readme-stats.vercel.app/api?username=JAICHANGPARK)](https://github.com/JAICHANGPARK/github-readme-stats)
@@ -16,8 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Packages
 ## Flutter Packages
 - [Floor Chiper](https://github.com/JAICHANGPARK/floor_chiper) : based on floor 
+
+# Works
+## Thesis
+
+- [Intelligent Healthcare System for Self-monitoring of Blood Glucose in Patients with Chronic Diabetes](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=11f72fbaa8a4fddcffe0bdc3ef48d419&outLink=K)
 
 ## Paper
 1. [Self-Care IoT Platform for Diabetic Mellitus, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
