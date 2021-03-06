@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 - [Floor Chiper](https://github.com/JAICHANGPARK/floor_chiper) : based on floor 
 
 ## Paper
-- [Self-Care IoT Platform for Diabetic Mellitus, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
+1. [Self-Care IoT Platform for Diabetic Mellitus, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
+2. [Exercise Coaching System based on Indoor Bicycle for Diabetic Patients, 2019](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201909469054281)
+3. [Gait Analysis Using a Wearable Mobile Device, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739553)
+4. [Development of a Mobile Application for Monitoring Wearable Robots, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739554)
+5. [Freezing Prevention System for USN Monitoring Possible Household Water Meter Box, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07536202)
+6. [Indoor location detection algorithm performance evaluation using the BLE Beacon, 2016](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06717746)
