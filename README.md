@@ -34,20 +34,20 @@ Here are some ideas to get you started:
 
 | Season 	| Episode 	| Repository 	| Video Link 	|
 |-	|-	|-	|-	|
-| S01 	| 0-100 	| [flutter_notebook](https://github.com/JAICHANGPARK/flutter_notebook) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R_A2b2rmHyuT7u4AbmG2PWJ 	|
-| S02 	| 101-150 	| [flutter_notebook](https://github.com/JAICHANGPARK/flutter_notebook) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R-rn8RiakbeZEgXfV4CoCXW 	|
-| S03 	| 151-200 	| [flutter_notebook_2nd_story](https://github.com/JAICHANGPARK/flutter_notebook_2nd_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R88c7RiK8gpLl94_VhF81Tr 	|
-| S04 	| 201-250 	| [flutter_notebook_2nd_story](https://github.com/JAICHANGPARK/flutter_notebook_2nd_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R8DKClfbhcx6LW4BPCw6jgo 	|
-| S05 	| 251-300 	| [flutter_notebook_the_third_story](https://github.com/JAICHANGPARK/flutter_notebook_the_third_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R_zCcMTGVyI1V0Nqgj1LN2I 	|
-| S06 	| 301-350 	| [flutter_notebook_the_third_story](https://github.com/JAICHANGPARK/flutter_notebook_the_third_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R8azL0xYZa_Wi8n_i5lk-7G 	|
-| S07 	| 351-400 	| [flutter_notebook_4th_story](https://github.com/JAICHANGPARK/flutter_notebook_4th_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R-env5ldfnXmlqc0T2kfRDC 	|
-| S08 	| 401-450 	| [flutter_notebook_5th_story](https://github.com/JAICHANGPARK/flutter_notebook_5th_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R90g3givLExFpvRvo8b1pkb 	|
-| S09 	| 451-499 	| [flutter_notebook_6th_story](https://github.com/JAICHANGPARK/flutter_notebook_6th_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R9UZvQTsnf3ZRhEl4x2ZyYS 	|
-| S10 	| 500-550 	| [flutter_notebook_7th_story](https://github.com/JAICHANGPARK/flutter_notebook_7th_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R8L0htY3Heeternz20j20WJ 	|
-| S11 	| 551-600 	| [flutter_notebook_8th_story](https://github.com/JAICHANGPARK/flutter_notebook_8th_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R8U-6XZFeQoHMd84B5I5tVH 	|
-| S12 	| 601-650 	| [flutter_notebook_9th_story](https://github.com/JAICHANGPARK/flutter_notebook_9th_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R8iJEoWYEmVCMF4gxId8dGi 	|
-| S13 	| 651-700 	| [flutter_notebook_10th_story](https://github.com/JAICHANGPARK/flutter_notebook_10th_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R8_b9q9yzq-FBq4X4VLZpNW 	|
-| S14 	| 701- 	| [flutter_notebook_11th_story](https://github.com/JAICHANGPARK/flutter_notebook_11th_story) 	| https://www.youtube.com/playlist?list=PLnz10ftgq9R9oWrdd4ssybbZ4O97GKE-c 	|
+| S01 	| 0-100 	| [flutter_notebook](https://github.com/JAICHANGPARK/flutter_notebook) 	| [Flutter Live Coding S01](https://www.youtube.com/playlist?list=PLnz10ftgq9R_A2b2rmHyuT7u4AbmG2PWJ) 	|
+| S02 	| 101-150 	| [flutter_notebook](https://github.com/JAICHANGPARK/flutter_notebook) 	| [Flutter Live Coding S02](https://www.youtube.com/playlist?list=PLnz10ftgq9R-rn8RiakbeZEgXfV4CoCXW) 	|
+| S03 	| 151-200 	| [flutter_notebook_2nd_story](https://github.com/JAICHANGPARK/flutter_notebook_2nd_story) 	| [Flutter Live Coding S03](https://www.youtube.com/playlist?list=PLnz10ftgq9R88c7RiK8gpLl94_VhF81Tr) 	|
+| S04 	| 201-250 	| [flutter_notebook_2nd_story](https://github.com/JAICHANGPARK/flutter_notebook_2nd_story) 	| [Flutter Live Coding S04](https://www.youtube.com/playlist?list=PLnz10ftgq9R8DKClfbhcx6LW4BPCw6jgo) 	|
+| S05 	| 251-300 	| [flutter_notebook_the_third_story](https://github.com/JAICHANGPARK/flutter_notebook_the_third_story) 	| [Flutter Live Coding S05](https://www.youtube.com/playlist?list=PLnz10ftgq9R_zCcMTGVyI1V0Nqgj1LN2I) 	|
+| S06 	| 301-350 	| [flutter_notebook_the_third_story](https://github.com/JAICHANGPARK/flutter_notebook_the_third_story) 	| [Flutter Live Coding S06](https://www.youtube.com/playlist?list=PLnz10ftgq9R8azL0xYZa_Wi8n_i5lk-7G) 	|
+| S07 	| 351-400 	| [flutter_notebook_4th_story](https://github.com/JAICHANGPARK/flutter_notebook_4th_story) 	| [Flutter Live Coding S07](https://www.youtube.com/playlist?list=PLnz10ftgq9R-env5ldfnXmlqc0T2kfRDC) 	|
+| S08 	| 401-450 	| [flutter_notebook_5th_story](https://github.com/JAICHANGPARK/flutter_notebook_5th_story) 	| [Flutter Live Coding S08](https://www.youtube.com/playlist?list=PLnz10ftgq9R90g3givLExFpvRvo8b1pkb) 	|
+| S09 	| 451-499 	| [flutter_notebook_6th_story](https://github.com/JAICHANGPARK/flutter_notebook_6th_story) 	| [Flutter Live Coding S09](https://www.youtube.com/playlist?list=PLnz10ftgq9R9UZvQTsnf3ZRhEl4x2ZyYS) 	|
+| S10 	| 500-550 	| [flutter_notebook_7th_story](https://github.com/JAICHANGPARK/flutter_notebook_7th_story) 	| [Flutter Live Coding S10](https://www.youtube.com/playlist?list=PLnz10ftgq9R8L0htY3Heeternz20j20WJ) 	|
+| S11 	| 551-600 	| [flutter_notebook_8th_story](https://github.com/JAICHANGPARK/flutter_notebook_8th_story) 	| [Flutter Live Coding S11](https://www.youtube.com/playlist?list=PLnz10ftgq9R8U-6XZFeQoHMd84B5I5tVH) 	|
+| S12 	| 601-650 	| [flutter_notebook_9th_story](https://github.com/JAICHANGPARK/flutter_notebook_9th_story) 	| [Flutter Live Coding S12](https://www.youtube.com/playlist?list=PLnz10ftgq9R8iJEoWYEmVCMF4gxId8dGi) 	|
+| S13 	| 651-700 	| [flutter_notebook_10th_story](https://github.com/JAICHANGPARK/flutter_notebook_10th_story) 	| [Flutter Live Coding S13](https://www.youtube.com/playlist?list=PLnz10ftgq9R8_b9q9yzq-FBq4X4VLZpNW) 	|
+| S14 	| 701- 	| [flutter_notebook_11th_story](https://github.com/JAICHANGPARK/flutter_notebook_11th_story) 	| [Flutter Live Coding S14](https://www.youtube.com/playlist?list=PLnz10ftgq9R9oWrdd4ssybbZ4O97GKE-c) 	|
 
 ## Apps
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
