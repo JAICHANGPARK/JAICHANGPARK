@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 -->
 
 # Packages
-## Flutter Packages
+## 🎉 Flutter Packages
 - [Floor Chiper](https://github.com/JAICHANGPARK/floor_chiper) : based on floor 
 
 # Works
 
-## Flutter Live Coding
+## 🎞 Flutter Live Coding
 
 | Season 	| Episode 	| Repository 	| Video Link 	|
 |-	|-	|-	|-	|
@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 | S13 	| 651-700 	| [flutter_notebook_10th_story](https://github.com/JAICHANGPARK/flutter_notebook_10th_story) 	| [Flutter Live Coding S13](https://www.youtube.com/playlist?list=PLnz10ftgq9R8_b9q9yzq-FBq4X4VLZpNW) 	|
 | S14 	| 701- 	| [flutter_notebook_11th_story](https://github.com/JAICHANGPARK/flutter_notebook_11th_story) 	| [Flutter Live Coding S14](https://www.youtube.com/playlist?list=PLnz10ftgq9R9oWrdd4ssybbZ4O97GKE-c) 	|
 
-## Apps
+## 🎉 Apps
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
 
-## Thesis
+## 📃 Thesis
 
 - [Intelligent Healthcare System for Self-monitoring of Blood Glucose in Patients with Chronic Diabetes](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=11f72fbaa8a4fddcffe0bdc3ef48d419&outLink=K)
 
-## Paper
+## 📃 Paper
 1. [Self-Care IoT Platform for Diabetic Mellitus, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
 2. [Exercise Coaching System based on Indoor Bicycle for Diabetic Patients, 2019](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201909469054281)
 3. [Gait Analysis Using a Wearable Mobile Device, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739553)
