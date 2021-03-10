@@ -6,7 +6,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JAICHANGPARK&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JAICHANGPARK&langs_count=8&layout=compact&theme=material-palenight" />
 </a>
 
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Works
 
-## Packages
+### Packages
 ### 🎉 Flutter Packages
 - [Floor Chiper](https://github.com/JAICHANGPARK/floor_chiper) : based on floor with sqlcipher
 - [flutter_nearby_connections](https://github.com/JAICHANGPARK/flutter_nearby_connections)
