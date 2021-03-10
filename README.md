@@ -1,5 +1,5 @@
-# Welcome
-## Hi there 👋
+## Welcome
+### Hi there 👋
 
 [![Dreamwalker's github stats](https://github-readme-stats.vercel.app/api?username=JAICHANGPARK&theme=material-palenight)](https://github.com/JAICHANGPARK/github-readme-stats)
 
@@ -24,13 +24,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Packages
-## 🎉 Flutter Packages
-- [Floor Chiper](https://github.com/JAICHANGPARK/floor_chiper) : based on floor 
+## Works
 
-# Works
+## Packages
+### 🎉 Flutter Packages
+- [Floor Chiper](https://github.com/JAICHANGPARK/floor_chiper) : based on floor with sqlcipher
+- [flutter_nearby_connections](https://github.com/JAICHANGPARK/flutter_nearby_connections)
+- [flutter_p2p](https://github.com/JAICHANGPARK/flutter_p2p)
+- [android_identifier](https://github.com/JAICHANGPARK/android_identifier)
+- [flutter_bluetooth_switch](https://github.com/JAICHANGPARK/flutter_bluetooth_switch)
 
-## 🎞 Flutter Live Coding
+### 🎞 Flutter Live Coding
 
 | Season 	| Episode 	| Repository 	| Video Link 	|
 |-	|-	|-	|-	|
@@ -49,14 +53,14 @@ Here are some ideas to get you started:
 | S13 	| 651-700 	| [flutter_notebook_10th_story](https://github.com/JAICHANGPARK/flutter_notebook_10th_story) 	| [Flutter Live Coding S13](https://www.youtube.com/playlist?list=PLnz10ftgq9R8_b9q9yzq-FBq4X4VLZpNW) 	|
 | S14 	| 701- 	| [flutter_notebook_11th_story](https://github.com/JAICHANGPARK/flutter_notebook_11th_story) 	| [Flutter Live Coding S14](https://www.youtube.com/playlist?list=PLnz10ftgq9R9oWrdd4ssybbZ4O97GKE-c) 	|
 
-## 🎉 Apps
+### 🎉 Apps
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
 
-## 📃 Thesis
+### 📃 Thesis
 
 - [Intelligent Healthcare System for Self-monitoring of Blood Glucose in Patients with Chronic Diabetes](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=11f72fbaa8a4fddcffe0bdc3ef48d419&outLink=K)
 
-## 📃 Paper
+### 📃 Paper
 1. [Self-Care IoT Platform for Diabetic Mellitus, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
 2. [Exercise Coaching System based on Indoor Bicycle for Diabetic Patients, 2019](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201909469054281)
 3. [Gait Analysis Using a Wearable Mobile Device, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739553)
@@ -64,7 +68,11 @@ Here are some ideas to get you started:
 5. [Freezing Prevention System for USN Monitoring Possible Household Water Meter Box, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07536202)
 6. [Indoor location detection algorithm performance evaluation using the BLE Beacon, 2016](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06717746)
 
-# More
+### 🍕 Presentation
+- [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): https://youtu.be/inRfBJMCsQU
+- [Flutter Day Extended Korea] 이제 Null 안전하게 지켜줄게 (2020): https://youtu.be/h-LoVm6NMYs
+
+## More
 [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/JAICHANGPARK/featured)](https://www.youtube.com/c/JAICHANGPARK/featured) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/itsmyowndreamwalker/)](https://www.instagram.com/itsmyowndreamwalker/) 
