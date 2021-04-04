@@ -79,7 +79,14 @@ Here are some ideas to get you started:
 **Tool**
 |   | Name | Store | Repo | Framwork | Local |
 |---|---|---|---|---|---|
-| <img src="https://play-lh.googleusercontent.com/Kltn2s76aEQS_ZgvZLtz_kTxl1Xbb1P2X4f5Fvoo5kbZ71rKg8s55t9JVng9-qUH6WY=s180-rw" width="64"/>  | 둘리 짤 생성기 - 짤 만들기  | [Link](https://play.google.com/store/apps/details?id=flutter.dreamwalker.com.fluttermasktest)  | [Link](https://github.com/JAICHANGPARK/flutter_dooly_creator) | Flutter | global |
+| <img src="https://play-lh.googleusercontent.com/Kltn2s76aEQS_ZgvZLtz_kTxl1Xbb1P2X4f5Fvoo5kbZ71rKg8s55t9JVng9-qUH6WY=s180-rw" width="64"/>  | 둘리 짤 생성기 - 짤 만들기  | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.dooly.flutter_dooly_creator)  | [Link](https://github.com/JAICHANGPARK/flutter_dooly_creator) | Flutter | global |
+
+**Travel & Local**
+
+|   | Name | Store | Repo | Framwork | Local |
+|---|---|---|---|---|---|
+| <img src="https://play-lh.googleusercontent.com/qYQSod1TfK5i5BEOqFG-vsFlDHteACn9WR3LdSGzcQ74sUNDO26rJewe3p-EUMAkeNo=s180-rw" width="64"/>  | 서울모기예보-모기예보 확인, 주거지, 공원, 수변부 정보 확인  | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.flutter.flutter_seoul_mosquito_forcast)  | [Link](https://github.com/JAICHANGPARK/seoul_mosquito_forecast) | Flutter | global |
+
 
 ### 📃 Thesis
 
