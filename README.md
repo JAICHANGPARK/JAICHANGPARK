@@ -103,8 +103,8 @@ Here are some ideas to get you started:
 6. [Indoor location detection algorithm performance evaluation using the BLE Beacon, 2016](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06717746)
 
 ### 🍕 Presentation
-- [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): https://youtu.be/inRfBJMCsQU
-- [Flutter Day Extended Korea] 이제 Null 안전하게 지켜줄게 (2020): https://youtu.be/h-LoVm6NMYs
+- [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): [[Link]](https://youtu.be/inRfBJMCsQU), [[Repo]](https://github.com/JAICHANGPARK/devfest2019_songdo)
+- [Flutter Day Extended Korea] 이제 Null 안전하게 지켜줄게 (2020): [[Link]](https://youtu.be/h-LoVm6NMYs), [[Repo]](https://github.com/JAICHANGPARK/flutter_day_extended_seoul_2020)
 
 ## More
 [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
