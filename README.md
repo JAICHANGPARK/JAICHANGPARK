@@ -71,19 +71,19 @@ Here are some ideas to get you started:
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
 
 **Covid-19**
-|   | Name | Store | Repo | Framwork | Local |
+|   | Name | Store | Repo | Framework | Local |
 |---|---|---|---|---|---|
 | <img src="https://play-lh.googleusercontent.com/R1LgqELtqRnMNODLrlTsDdnwaFcmqf6ZT_Qipp6g35rgqG4aps2g6XJuxI8HTpNkY_lx=s180-rw" width="64"/>  | 모두의 백신 - 예방접종센터, 현황 조회  | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.vaccine.covid_19_vaccine_korea)  | [Link](https://github.com/JAICHANGPARK/covid19_vaccine_korea) | Flutter | 🇰🇷 |
 | <img src="https://play-lh.googleusercontent.com/8jDGnxl3Ipcf9FsXLbd3x2MYfYu9wKy9NdXxGvIAg61OxM58jeHUzqdw8y2A-PKgtT0=s180-rw" width="64"/>  | 공적마스크 검색이 - 마스크5부제 대응  | [PlayStore](https://play.google.com/store/apps/details?id=flutter.dreamwalker.com.fluttermasktest) , [OneStore](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000746817) | [Link](https://github.com/JAICHANGPARK/flutter_korea_covid_19) | Flutter | 🇰🇷 |
 
 **Tool**
-|   | Name | Store | Repo | Framwork | Local |
+|   | Name | Store | Repo | Framework | Local |
 |---|---|---|---|---|---|
 | <img src="https://play-lh.googleusercontent.com/Kltn2s76aEQS_ZgvZLtz_kTxl1Xbb1P2X4f5Fvoo5kbZ71rKg8s55t9JVng9-qUH6WY=s180-rw" width="64"/>  | 둘리 짤 생성기 - 짤 만들기  | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.dooly.flutter_dooly_creator)  | [Link](https://github.com/JAICHANGPARK/flutter_dooly_creator) | Flutter | global |
 
 **Travel & Local**
 
-|   | Name | Store | Repo | Framwork | Local |
+|   | Name | Store | Repo | Framework | Local |
 |---|---|---|---|---|---|
 | <img src="https://play-lh.googleusercontent.com/qYQSod1TfK5i5BEOqFG-vsFlDHteACn9WR3LdSGzcQ74sUNDO26rJewe3p-EUMAkeNo=s180-rw" width="64"/>  | 서울모기예보-모기예보 확인, 주거지, 공원, 수변부 정보 확인  | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.flutter.flutter_seoul_mosquito_forcast)  | [Link](https://github.com/JAICHANGPARK/seoul_mosquito_forecast) | Flutter | 🇰🇷 |
 | <img src="https://play-lh.googleusercontent.com/rW8Zp_LfiTSP-UmifehUV9DKhdvZ98ZFJeGURF7HVGNi46Xho6k3wdNCq8BH_oaLiHA=s180-rw" width="64"/>  | 바다일기 - 해수욕장 혼잡도 확인  | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.flutter.flutter_a_glacne_beach)  | [Link](https://github.com/JAICHANGPARK/flutter_a_glance_beach) | Flutter | 🇰🇷 |
