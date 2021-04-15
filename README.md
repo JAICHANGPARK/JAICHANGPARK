@@ -43,11 +43,13 @@ Here are some ideas to get you started:
 
 ### Packages
 ### 🎉 Flutter Packages
+
+- [horizontal_ratio_bar](https://github.com/JAICHANGPARK/horizontal_ratio_bar) : Go to [pub.dev](https://pub.dev/packages/horizontal_ratio_bar)
 - [Floor Chiper](https://github.com/JAICHANGPARK/floor_chiper) : based on floor with sqlcipher
-- [flutter_nearby_connections](https://github.com/JAICHANGPARK/flutter_nearby_connections)
-- [flutter_p2p](https://github.com/JAICHANGPARK/flutter_p2p)
-- [android_identifier](https://github.com/JAICHANGPARK/android_identifier)
-- [flutter_bluetooth_switch](https://github.com/JAICHANGPARK/flutter_bluetooth_switch)
+- [flutter_nearby_connections](https://github.com/JAICHANGPARK/flutter_nearby_connections) : Customization
+- [flutter_p2p](https://github.com/JAICHANGPARK/flutter_p2p) : Customization 
+- [android_identifier](https://github.com/JAICHANGPARK/android_identifier) : Customization
+- [flutter_bluetooth_switch](https://github.com/JAICHANGPARK/flutter_bluetooth_switch) : Customization 
 
 ### 🎞 Flutter Live Coding
 
