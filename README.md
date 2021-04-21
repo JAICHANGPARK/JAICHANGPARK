@@ -105,11 +105,12 @@ Here are some ideas to get you started:
 
 ### 📃 Paper
 1. [Self-Care IoT Platform for Diabetic Mellitus, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
-2. [Exercise Coaching System based on Indoor Bicycle for Diabetic Patients, 2019](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201909469054281)
-3. [Gait Analysis Using a Wearable Mobile Device, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739553)
-4. [Development of a Mobile Application for Monitoring Wearable Robots, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739554)
-5. [Freezing Prevention System for USN Monitoring Possible Household Water Meter Box, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07536202)
-6. [Indoor location detection algorithm performance evaluation using the BLE Beacon, 2016](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06717746)
+2. [A User Interface System of a Robot-Aided Gait Training System for Complete Paraplegics, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10493769)
+3. [Exercise Coaching System based on Indoor Bicycle for Diabetic Patients, 2019](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201909469054281)
+4. [Gait Analysis Using a Wearable Mobile Device, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739553)
+5. [Development of a Mobile Application for Monitoring Wearable Robots, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739554)
+6. [Freezing Prevention System for USN Monitoring Possible Household Water Meter Box, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07536202)
+7. [Indoor location detection algorithm performance evaluation using the BLE Beacon, 2016](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06717746)
 
 ### 🍕 Presentation
 - [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): [[Link]](https://youtu.be/inRfBJMCsQU), [[Repo]](https://github.com/JAICHANGPARK/devfest2019_songdo)
