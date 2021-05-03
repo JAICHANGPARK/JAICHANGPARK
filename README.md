@@ -3,7 +3,6 @@
 
 [![Dreamwalker's github stats](https://github-readme-stats.vercel.app/api?username=JAICHANGPARK&theme=material-palenight)](https://github.com/JAICHANGPARK/github-readme-stats)
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JAICHANGPARK&langs_count=8&layout=compact&theme=material-palenight" />
@@ -40,6 +39,13 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 ## Works
+
+### Embedded
+### ESP-32
+- BLE OTA : [esp32_ble_ota](https://github.com/JAICHANGPARK/esp32_ble_ota)
+
+### Flutter 
+- BLE OTA with Esp32: [flutter_esp32_bluetooth_ota](https://github.com/JAICHANGPARK/flutter_esp32_bluetooth_ota)
 
 ### Packages
 ### 🎉 Flutter Packages
