@@ -49,6 +49,15 @@ Here are some ideas to get you started:
 - flutter_2fa_generator : [repo: flutter_2fa_generator](https://github.com/JAICHANGPARK/flutter_2fa_generator)
 - flutter_arduino_flash_tool: [repo: flutter_arduino_flash_tool](https://github.com/JAICHANGPARK/flutter_arduino_flash_tool)
 
+### Data & ML
+- DataExperiment_Python: [repo](https://github.com/JAICHANGPARK/DataExperiment_Python)
+- workflow_automation: [repo](https://github.com/JAICHANGPARK/workflow_automation)
+- tensorflow-raspberrypi: [repo](https://github.com/JAICHANGPARK/tensorflow-raspberrypi)
+- Tensorflow_Win10" [repo](https://github.com/JAICHANGPARK/Tensorflow_Win10)
+- Reinforcement-Learning: [repo](https://github.com/JAICHANGPARK/Reinforcement-Learning)
+- Kaggle: [repo](https://github.com/JAICHANGPARK/Kaggle)
+- Neural_Network: [repo](https://github.com/JAICHANGPARK/Neural_Network)
+
 ### 🎁Packages
 ### 🎉 Flutter Packages
 
