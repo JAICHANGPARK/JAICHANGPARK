@@ -3,12 +3,6 @@
 
 [![Dreamwalker's github stats](https://github-readme-stats.vercel.app/api?username=JAICHANGPARK&theme=material-palenight)](https://github.com/JAICHANGPARK/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JAICHANGPARK&langs_count=8&layout=compact&theme=material-palenight" />
-</a>
-
-
 <!--
 **JAICHANGPARK/JAICHANGPARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -87,7 +81,8 @@ Here are some ideas to get you started:
 | S13 	| 651-700 	| [flutter_notebook_10th_story](https://github.com/JAICHANGPARK/flutter_notebook_10th_story) 	| [Flutter Live Coding S13](https://www.youtube.com/playlist?list=PLnz10ftgq9R8_b9q9yzq-FBq4X4VLZpNW) 	|
 | S14 	| 701-750 	| [flutter_notebook_11th_story](https://github.com/JAICHANGPARK/flutter_notebook_11th_story) 	| [Flutter Live Coding S14](https://www.youtube.com/playlist?list=PLnz10ftgq9R9oWrdd4ssybbZ4O97GKE-c) 	|
 | S15	| 751-800	| [flutter_notebook_12th_story](https://github.com/JAICHANGPARK/flutter_notebook_12th_story) 	| [Flutter Live Coding S15](https://youtube.com/playlist?list=PLnz10ftgq9R8uyli_QWDc2CChrz1giQ1z) 	|
-| S16	| 801-	| [flutter_notebook_13th_story](https://github.com/JAICHANGPARK/flutter_notebook_13th_story) 	| [Flutter Live Coding S16](https://youtube.com/playlist?list=PLnz10ftgq9R-IjVsQNvJ4oPH1s0ADNR0v) 	|
+| S16	| 801-850	| [flutter_notebook_13th_story](https://github.com/JAICHANGPARK/flutter_notebook_13th_story) 	| [Flutter Live Coding S16](https://youtube.com/playlist?list=PLnz10ftgq9R-IjVsQNvJ4oPH1s0ADNR0v) 	|
+| S17	| 851-	| [flutter_notebook_14th_story](https://github.com/JAICHANGPARK/flutter_notebook_14th_story) 	| [Flutter Live Coding S17](https://youtube.com/playlist?list=PLnz10ftgq9R-S0fnUKtEZiIaD-_RekPn1) 	|
 
 ### 🎉 Apps
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
@@ -133,6 +128,7 @@ Here are some ideas to get you started:
 ### 🍕 Presentation
 - [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): [[Link]](https://youtu.be/inRfBJMCsQU), [[Repo]](https://github.com/JAICHANGPARK/devfest2019_songdo)
 - [Flutter Day Extended Korea] 이제 Null 안전하게 지켜줄게 (2020): [[Link]](https://youtu.be/h-LoVm6NMYs), [[Repo]](https://github.com/JAICHANGPARK/flutter_day_extended_seoul_2020)
+- [Google I/O extended with double S] Flutter Desktop (2021): [[Link]](https://sites.google.com/view/ioext-doubles/%ED%99%88), [[video]](https://youtu.be/H9rmLzINE8Q), [[pdf]](https://speakerdeck.com/itsmedreamwalker/o-21-extended-double-s-flutter-desktop)
 
 ## More
 [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
