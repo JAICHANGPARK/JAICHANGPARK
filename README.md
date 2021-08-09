@@ -118,14 +118,21 @@ Here are some ideas to get you started:
 
 ### 📃 Paper
 
+- 2021
 1. [Therapeutic Exercise Platform for Type-2 Diabetic Mellitus, 2021](https://www.mdpi.com/2079-9292/10/15/1820)
 2. [Self-Care IoT Platform for Diabetic Mellitus, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
-3. [A User Interface System of a Robot-Aided Gait Training System for Complete Paraplegics, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10493769)
-4. [Exercise Coaching System based on Indoor Bicycle for Diabetic Patients, 2019](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201909469054281)
-5. [Gait Analysis Using a Wearable Mobile Device, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739553)
-6. [Development of a Mobile Application for Monitoring Wearable Robots, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739554)
-7. [Freezing Prevention System for USN Monitoring Possible Household Water Meter Box, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07536202)
-8. [Indoor location detection algorithm performance evaluation using the BLE Beacon, 2016](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06717746)
+
+- 2020 
+1. [A User Interface System of a Robot-Aided Gait Training System for Complete Paraplegics, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10493769)
+
+- 2019
+1. [Exercise Coaching System based on Indoor Bicycle for Diabetic Patients, 2019](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201909469054281)
+2. [Gait Analysis Using a Wearable Mobile Device, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739553)
+3. [Development of a Mobile Application for Monitoring Wearable Robots, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739554)
+
+- 2018
+1. [Freezing Prevention System for USN Monitoring Possible Household Water Meter Box, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07536202)
+2. [Indoor location detection algorithm performance evaluation using the BLE Beacon, 2016](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06717746)
 
 ### 🍕 Presentation
 - [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): [[Link]](https://youtu.be/inRfBJMCsQU), [[Repo]](https://github.com/JAICHANGPARK/devfest2019_songdo)
