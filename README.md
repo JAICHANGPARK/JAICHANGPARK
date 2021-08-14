@@ -121,6 +121,8 @@ Here are some ideas to get you started:
 - 2021
 1. [Therapeutic Exercise Platform for Type-2 Diabetic Mellitus, 2021](https://www.mdpi.com/2079-9292/10/15/1820)
 2. [Self-Care IoT Platform for Diabetic Mellitus, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
+3. Acquisition of Gait Ability Indexes Using a Lower-limb Rehabilitation Wearable Robot
+4. Development of a Mobile Application for Assessment of Gait Ability of Wearable Robot
 
 - 2020 
 1. [A User Interface System of a Robot-Aided Gait Training System for Complete Paraplegics, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10493769)
