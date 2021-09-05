@@ -82,7 +82,8 @@ Here are some ideas to get you started:
 | S14 	| 701-750 	| [flutter_notebook_11th_story](https://github.com/JAICHANGPARK/flutter_notebook_11th_story) 	| [Flutter Live Coding S14](https://www.youtube.com/playlist?list=PLnz10ftgq9R9oWrdd4ssybbZ4O97GKE-c) 	|
 | S15	| 751-800	| [flutter_notebook_12th_story](https://github.com/JAICHANGPARK/flutter_notebook_12th_story) 	| [Flutter Live Coding S15](https://youtube.com/playlist?list=PLnz10ftgq9R8uyli_QWDc2CChrz1giQ1z) 	|
 | S16	| 801-850	| [flutter_notebook_13th_story](https://github.com/JAICHANGPARK/flutter_notebook_13th_story) 	| [Flutter Live Coding S16](https://youtube.com/playlist?list=PLnz10ftgq9R-IjVsQNvJ4oPH1s0ADNR0v) 	|
-| S17	| 851-	| [flutter_notebook_14th_story](https://github.com/JAICHANGPARK/flutter_notebook_14th_story) 	| [Flutter Live Coding S17](https://youtube.com/playlist?list=PLnz10ftgq9R-S0fnUKtEZiIaD-_RekPn1) 	|
+| S17	| 851-900	| [flutter_notebook_14th_story](https://github.com/JAICHANGPARK/flutter_notebook_14th_story) 	| [Flutter Live Coding S17](https://youtube.com/playlist?list=PLnz10ftgq9R-S0fnUKtEZiIaD-_RekPn1) 	|
+| S18	| 901	| [flutter_notebook_15th_story](https://github.com/JAICHANGPARK/flutter_notebook_15th_story) 	| [Flutter Live Coding S18](https://youtube.com/playlist?list=PLnz10ftgq9R_kYC44vO4zNCqIlsmzfywe) 	|
 
 ### 🎉 Apps
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
