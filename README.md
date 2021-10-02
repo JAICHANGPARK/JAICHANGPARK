@@ -111,6 +111,9 @@ Here are some ideas to get you started:
 |   | Name | Store | Repo | Framework | Local |
 |---|---|---|---|---|---|
 | <img src="https://play-lh.googleusercontent.com/dBSHL0m_ed1qdf1wVbhkL3PdZzr0UAIz5BwjUgPaVh8gCAHZ-uack3nBXWhDHD7xVfhF=s180-rw" width="64"/>  | 당뇨모리 (당뇨병환자를 위한 차세대 인공지능 혈당관리 앱)  | [Link](https://play.google.com/store/apps/details?id=a01.lab.dialogflow.com.dreamwalker.dialogflow_lab)  | [Link](https://github.com/JAICHANGPARK/Android_Dialogflow) | Native/Android | 🇰🇷 |
+| <img src="https://play-lh.googleusercontent.com/WaYWPj1RHOc4FYQw1ESpnhQzooU_lnvu7lChAkh5VQTMME0SUXgVyaTxciOEfuCyXg=s180-rw" width="64"/>  | 당뇨그루-리마인더 | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesreminder)  | - | Native/Android | 🇰🇷 |
+| <img src="https://play-lh.googleusercontent.com/6EQAR5_DAI6tFqqiZy4EsumhkC2vUnBkPg2vhueegoYlZRd3YJaXDlwuQa605VL6pgk=s180-rw" width="64"/>  | DiabetesGuru(Foodie) | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesfoodypilot)  | - | Native/Android | 🇰🇷 |
+| <img src="https://play-lh.googleusercontent.com/NLv2SfKS42OXkuB9RGOvjjIWbtNXzP0gBtC-vzr1r5ya60i9ULqFbLltIkJuuBCSAyTt=s180-rw" width="64"/>  | DiabetesGuru-Fitness | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesfits)  | - | Native/Android | 🇰🇷 |
 
 
 ### 📃 Thesis
