@@ -83,7 +83,8 @@ Here are some ideas to get you started:
 | S15	| 751-800	| [flutter_notebook_12th_story](https://github.com/JAICHANGPARK/flutter_notebook_12th_story) 	| [Flutter Live Coding S15](https://youtube.com/playlist?list=PLnz10ftgq9R8uyli_QWDc2CChrz1giQ1z) 	|
 | S16	| 801-850	| [flutter_notebook_13th_story](https://github.com/JAICHANGPARK/flutter_notebook_13th_story) 	| [Flutter Live Coding S16](https://youtube.com/playlist?list=PLnz10ftgq9R-IjVsQNvJ4oPH1s0ADNR0v) 	|
 | S17	| 851-900	| [flutter_notebook_14th_story](https://github.com/JAICHANGPARK/flutter_notebook_14th_story) 	| [Flutter Live Coding S17](https://youtube.com/playlist?list=PLnz10ftgq9R-S0fnUKtEZiIaD-_RekPn1) 	|
-| S18	| 901	| [flutter_notebook_15th_story](https://github.com/JAICHANGPARK/flutter_notebook_15th_story) 	| [Flutter Live Coding S18](https://youtube.com/playlist?list=PLnz10ftgq9R_kYC44vO4zNCqIlsmzfywe) 	|
+| S18	| 901-950	| [flutter_notebook_15th_story](https://github.com/JAICHANGPARK/flutter_notebook_15th_story) 	| [Flutter Live Coding S18](https://youtube.com/playlist?list=PLnz10ftgq9R_kYC44vO4zNCqIlsmzfywe) 	|
+| S19	| 951-	| [flutter_notebook_16th_story](https://github.com/JAICHANGPARK/flutter_notebook_16th_story) 	| [Flutter Live Coding S19](https://youtube.com/playlist?list=PLnz10ftgq9R85nuMpxqGpW4QSb9IRG3O-) 	|
 
 ### 🎉 Apps
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
@@ -127,6 +128,8 @@ Here are some ideas to get you started:
 2. [Self-Care IoT Platform for Diabetic Mellitus, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
 3. Acquisition of Gait Ability Indexes Using a Lower-limb Rehabilitation Wearable Robot
 4. Development of a Mobile Application for Assessment of Gait Ability of Wearable Robot
+5. A Mobile Application for Gait Analysis of Wearable Robot for Incomplete Lower Extremity Paralysis
+6. Acquisition of Indexes to Evaluate Gait Ability Using a Lower-limb Rehabilitation Wearable Robot
 
 - 2020 
 1. [A User Interface System of a Robot-Aided Gait Training System for Complete Paraplegics, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10493769)
