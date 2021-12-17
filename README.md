@@ -68,7 +68,7 @@
 | S17	| 851-900	| [flutter_notebook_14th_story](https://github.com/JAICHANGPARK/flutter_notebook_14th_story) 	| [Flutter Live Coding S17](https://youtube.com/playlist?list=PLnz10ftgq9R-S0fnUKtEZiIaD-_RekPn1) 	|
 | S18	| 901-950	| [flutter_notebook_15th_story](https://github.com/JAICHANGPARK/flutter_notebook_15th_story) 	| [Flutter Live Coding S18](https://youtube.com/playlist?list=PLnz10ftgq9R_kYC44vO4zNCqIlsmzfywe) 	|
 | S19	| 951-1000 | [flutter_notebook_16th_story](https://github.com/JAICHANGPARK/flutter_notebook_16th_story) 	| [Flutter Live Coding S19](https://youtube.com/playlist?list=PLnz10ftgq9R85nuMpxqGpW4QSb9IRG3O-) 	|
-| S20	| 1001- | [flutter_notebook_16th_story](https://github.com/JAICHANGPARK/flutter_notebook_17th_story) 	| [Flutter Live Coding S20](https://youtube.com/playlist?list=PLnz10ftgq9R_2fJ5MvuY5x_kO_2XJfQyh) 	|
+| S20	| 1001- | [flutter_notebook_17th_story](https://github.com/JAICHANGPARK/flutter_notebook_17th_story) 	| [Flutter Live Coding S20](https://youtube.com/playlist?list=PLnz10ftgq9R_2fJ5MvuY5x_kO_2XJfQyh) 	|
 
 ### 🎉 Apps
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
