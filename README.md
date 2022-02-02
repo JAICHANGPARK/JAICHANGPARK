@@ -17,25 +17,12 @@
 
 ## Works
 
-### 🧶Embedded
-### ESP-32
-- BLE OTA : [repo: esp32_ble_ota](https://github.com/JAICHANGPARK/esp32_ble_ota)
-
 ### 🦄Flutter 
+
 - BLE OTA with Esp32: [repo: flutter_esp32_bluetooth_ota](https://github.com/JAICHANGPARK/flutter_esp32_bluetooth_ota)
 - flutter_2fa_generator : [repo: flutter_2fa_generator](https://github.com/JAICHANGPARK/flutter_2fa_generator)
 - flutter_arduino_flash_tool: [repo: flutter_arduino_flash_tool](https://github.com/JAICHANGPARK/flutter_arduino_flash_tool)
 
-### Data & ML
-- DataExperiment_Python: [repo](https://github.com/JAICHANGPARK/DataExperiment_Python)
-- workflow_automation: [repo](https://github.com/JAICHANGPARK/workflow_automation)
-- tensorflow-raspberrypi: [repo](https://github.com/JAICHANGPARK/tensorflow-raspberrypi)
-- Tensorflow_Win10" [repo](https://github.com/JAICHANGPARK/Tensorflow_Win10)
-- Reinforcement-Learning: [repo](https://github.com/JAICHANGPARK/Reinforcement-Learning)
-- Kaggle: [repo](https://github.com/JAICHANGPARK/Kaggle)
-- Neural_Network: [repo](https://github.com/JAICHANGPARK/Neural_Network)
-
-### 🎁Packages
 ### 🎉 Flutter Packages
 
 - [horizontal_ratio_bar](https://github.com/JAICHANGPARK/horizontal_ratio_bar) : Go to [pub.dev](https://pub.dev/packages/horizontal_ratio_bar)
@@ -68,7 +55,24 @@
 | S17	| 851-900	| [flutter_notebook_14th_story](https://github.com/JAICHANGPARK/flutter_notebook_14th_story) 	| [Flutter Live Coding S17](https://youtube.com/playlist?list=PLnz10ftgq9R-S0fnUKtEZiIaD-_RekPn1) 	|
 | S18	| 901-950	| [flutter_notebook_15th_story](https://github.com/JAICHANGPARK/flutter_notebook_15th_story) 	| [Flutter Live Coding S18](https://youtube.com/playlist?list=PLnz10ftgq9R_kYC44vO4zNCqIlsmzfywe) 	|
 | S19	| 951-1000 | [flutter_notebook_16th_story](https://github.com/JAICHANGPARK/flutter_notebook_16th_story) 	| [Flutter Live Coding S19](https://youtube.com/playlist?list=PLnz10ftgq9R85nuMpxqGpW4QSb9IRG3O-) 	|
-| S20	| 1001- | [flutter_notebook_17th_story](https://github.com/JAICHANGPARK/flutter_notebook_17th_story) 	| [Flutter Live Coding S20](https://youtube.com/playlist?list=PLnz10ftgq9R_2fJ5MvuY5x_kO_2XJfQyh) 	|
+| S20	| 1001-1050 | [flutter_notebook_17th_story](https://github.com/JAICHANGPARK/flutter_notebook_17th_story) 	| [Flutter Live Coding S20](https://youtube.com/playlist?list=PLnz10ftgq9R_2fJ5MvuY5x_kO_2XJfQyh) 	|
+| S21	| 1051 | [flutter_notebook_18th_story](https://github.com/JAICHANGPARK/flutter_notebook_18th_story) 	| [Flutter Live Coding S21](https://youtube.com/playlist?list=PLnz10ftgq9R9v3oUjWsqlQpLxNNc1VIGv) 	|
+
+### Data & ML
+- DataExperiment_Python: [repo](https://github.com/JAICHANGPARK/DataExperiment_Python)
+- workflow_automation: [repo](https://github.com/JAICHANGPARK/workflow_automation)
+- tensorflow-raspberrypi: [repo](https://github.com/JAICHANGPARK/tensorflow-raspberrypi)
+- Tensorflow_Win10" [repo](https://github.com/JAICHANGPARK/Tensorflow_Win10)
+- Reinforcement-Learning: [repo](https://github.com/JAICHANGPARK/Reinforcement-Learning)
+- Kaggle: [repo](https://github.com/JAICHANGPARK/Kaggle)
+- Neural_Network: [repo](https://github.com/JAICHANGPARK/Neural_Network)
+
+### 🧶 Embedded
+
+### ESP-32
+
+- BLE OTA : [repo: esp32_ble_ota](https://github.com/JAICHANGPARK/esp32_ble_ota)
+
 
 ### 🎉 Apps
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
