@@ -137,6 +137,7 @@
 - [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): [[Link]](https://youtu.be/inRfBJMCsQU), [[Repo]](https://github.com/JAICHANGPARK/devfest2019_songdo)
 - [Flutter Day Extended Korea] 이제 Null 안전하게 지켜줄게 (2020): [[Link]](https://youtu.be/h-LoVm6NMYs), [[Repo]](https://github.com/JAICHANGPARK/flutter_day_extended_seoul_2020)
 - [Google I/O extended with double S] Flutter Desktop (2021): [[Link]](https://sites.google.com/view/ioext-doubles/%ED%99%88), [[video]](https://youtu.be/H9rmLzINE8Q), [[pdf]](https://speakerdeck.com/itsmedreamwalker/o-21-extended-double-s-flutter-desktop)
+- [Flutter Festival Korea] Flutter Embedded (2022): [[Link]](https://www.meetup.com/Flutter-Korea/events/283623739/), [[video]](https://youtu.be/jW3pqIpQtQE), [[Repo]](https://github.com/JAICHANGPARK/flutter_festival_korea)
 
 ## More
 [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
