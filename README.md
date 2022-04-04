@@ -56,7 +56,8 @@
 | S18	| 901-950	| [flutter_notebook_15th_story](https://github.com/JAICHANGPARK/flutter_notebook_15th_story) 	| [Flutter Live Coding S18](https://youtube.com/playlist?list=PLnz10ftgq9R_kYC44vO4zNCqIlsmzfywe) 	|
 | S19	| 951-1000 | [flutter_notebook_16th_story](https://github.com/JAICHANGPARK/flutter_notebook_16th_story) 	| [Flutter Live Coding S19](https://youtube.com/playlist?list=PLnz10ftgq9R85nuMpxqGpW4QSb9IRG3O-) 	|
 | S20	| 1001-1050 | [flutter_notebook_17th_story](https://github.com/JAICHANGPARK/flutter_notebook_17th_story) 	| [Flutter Live Coding S20](https://youtube.com/playlist?list=PLnz10ftgq9R_2fJ5MvuY5x_kO_2XJfQyh) 	|
-| S21	| 1051 | [flutter_notebook_18th_story](https://github.com/JAICHANGPARK/flutter_notebook_18th_story) 	| [Flutter Live Coding S21](https://youtube.com/playlist?list=PLnz10ftgq9R9v3oUjWsqlQpLxNNc1VIGv) 	|
+| S21	| 1051-1100 | [flutter_notebook_18th_story](https://github.com/JAICHANGPARK/flutter_notebook_18th_story) 	| [Flutter Live Coding S21](https://youtube.com/playlist?list=PLnz10ftgq9R9v3oUjWsqlQpLxNNc1VIGv) 	|
+| S22	| 1101- | [flutter_notebook_19th_story](https://github.com/JAICHANGPARK/flutter_notebook_19th_story) 	| [Flutter Live Coding S22](https://youtube.com/playlist?list=PLnz10ftgq9R9iuiGytc9JzJNbg-9q74j4) 	|
 
 ### Data & ML
 - DataExperiment_Python: [repo](https://github.com/JAICHANGPARK/DataExperiment_Python)
