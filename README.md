@@ -121,15 +121,15 @@
 2. A Design Pattern of MCU-based real-time robot control system for Angel Legs Robot Platform, KROS, MAY 2022 
 
 - 2021
-1. [Therapeutic Exercise Platform for Type-2 Diabetic Mellitus, 2021](https://www.mdpi.com/2079-9292/10/15/1820)
-2. [Self-Care IoT Platform for Diabetic Mellitus, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
+1. [Therapeutic Exercise Platform for Type-2 Diabetic Mellitus, Electronics, 2021](https://www.mdpi.com/2079-9292/10/15/1820)
+2. [Self-Care IoT Platform for Diabetic Mellitus, Appl. Sci, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
 3. Acquisition of Gait Ability Indexes Using a Lower-limb Rehabilitation Wearable Robot, ICROS, 2021
 4. Development of a Mobile Application for Assessment of Gait Ability of Wearable Robot, ICROS, 2021
 5. A Mobile Application for Gait Analysis of Wearable Robot for Incomplete Lower Extremity Paralysis, ICCAS, 2021
 6. Acquisition of Indexes to Evaluate Gait Ability Using a Lower-limb Rehabilitation Wearable Robotm ICCAS, 2021
 
 - 2020 
-1. [A User Interface System of a Robot-Aided Gait Training System for Complete Paraplegics, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10493769)
+1. [A User Interface System of a Robot-Aided Gait Training System for Complete Paraplegics, ICCAS, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10493769)
 
 - 2019
 1. [Exercise Coaching System based on Indoor Bicycle for Diabetic Patients, 2019](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201909469054281)
