@@ -57,7 +57,9 @@
 | S19	| 951-1000 | [flutter_notebook_16th_story](https://github.com/JAICHANGPARK/flutter_notebook_16th_story) 	| [Flutter Live Coding S19](https://youtube.com/playlist?list=PLnz10ftgq9R85nuMpxqGpW4QSb9IRG3O-) 	|
 | S20	| 1001-1050 | [flutter_notebook_17th_story](https://github.com/JAICHANGPARK/flutter_notebook_17th_story) 	| [Flutter Live Coding S20](https://youtube.com/playlist?list=PLnz10ftgq9R_2fJ5MvuY5x_kO_2XJfQyh) 	|
 | S21	| 1051-1100 | [flutter_notebook_18th_story](https://github.com/JAICHANGPARK/flutter_notebook_18th_story) 	| [Flutter Live Coding S21](https://youtube.com/playlist?list=PLnz10ftgq9R9v3oUjWsqlQpLxNNc1VIGv) 	|
-| S22	| 1101- | [flutter_notebook_19th_story](https://github.com/JAICHANGPARK/flutter_notebook_19th_story) 	| [Flutter Live Coding S22](https://youtube.com/playlist?list=PLnz10ftgq9R9iuiGytc9JzJNbg-9q74j4) 	|
+| S22	| 1101-1150 | [flutter_notebook_19th_story](https://github.com/JAICHANGPARK/flutter_notebook_19th_story) 	| [Flutter Live Coding S22](https://youtube.com/playlist?list=PLnz10ftgq9R9iuiGytc9JzJNbg-9q74j4) 	|
+| S23	| 1151- | [flutter_notebook_20th_story](https://github.com/JAICHANGPARK/flutter_notebook_20th_story) 	| [Flutter Live Coding S23](https://youtube.com/playlist?list=PLnz10ftgq9R9Tu0D1bSQX2LV8B2X0ngmu) 	|
+
 
 ### Data & ML
 - DataExperiment_Python: [repo](https://github.com/JAICHANGPARK/DataExperiment_Python)
@@ -114,13 +116,17 @@
 
 ### 📃 Paper
 
+- 2022
+1. Container-based wearable robot system design for Angel Legs platform, KROS, MAY 2022
+2. A Design Pattern of MCU-based real-time robot control system for Angel Legs Robot Platform, KROS, MAY 2022 
+
 - 2021
 1. [Therapeutic Exercise Platform for Type-2 Diabetic Mellitus, 2021](https://www.mdpi.com/2079-9292/10/15/1820)
 2. [Self-Care IoT Platform for Diabetic Mellitus, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
-3. Acquisition of Gait Ability Indexes Using a Lower-limb Rehabilitation Wearable Robot
-4. Development of a Mobile Application for Assessment of Gait Ability of Wearable Robot
-5. A Mobile Application for Gait Analysis of Wearable Robot for Incomplete Lower Extremity Paralysis
-6. Acquisition of Indexes to Evaluate Gait Ability Using a Lower-limb Rehabilitation Wearable Robot
+3. Acquisition of Gait Ability Indexes Using a Lower-limb Rehabilitation Wearable Robot, ICROS, 2021
+4. Development of a Mobile Application for Assessment of Gait Ability of Wearable Robot, ICROS, 2021
+5. A Mobile Application for Gait Analysis of Wearable Robot for Incomplete Lower Extremity Paralysis, ICCAS, 2021
+6. Acquisition of Indexes to Evaluate Gait Ability Using a Lower-limb Rehabilitation Wearable Robotm ICCAS, 2021
 
 - 2020 
 1. [A User Interface System of a Robot-Aided Gait Training System for Complete Paraplegics, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10493769)
