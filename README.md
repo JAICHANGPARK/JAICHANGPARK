@@ -1,4 +1,4 @@
-
+<!--
 ## Hi there 👋
 
 ### Languages and Tools
@@ -14,23 +14,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+-->
 
-## Works
-
-### 🦄Flutter 
-
-- BLE OTA with Esp32: [repo: flutter_esp32_bluetooth_ota](https://github.com/JAICHANGPARK/flutter_esp32_bluetooth_ota)
-- flutter_2fa_generator : [repo: flutter_2fa_generator](https://github.com/JAICHANGPARK/flutter_2fa_generator)
-- flutter_arduino_flash_tool: [repo: flutter_arduino_flash_tool](https://github.com/JAICHANGPARK/flutter_arduino_flash_tool)
-
-### 🎉 Flutter Packages
-
-- [horizontal_ratio_bar](https://github.com/JAICHANGPARK/horizontal_ratio_bar) : Go to [pub.dev](https://pub.dev/packages/horizontal_ratio_bar)
-- [Floor Chiper](https://github.com/JAICHANGPARK/floor_chiper) : based on floor with sqlcipher
-- [flutter_nearby_connections](https://github.com/JAICHANGPARK/flutter_nearby_connections) : Customization
-- [flutter_p2p](https://github.com/JAICHANGPARK/flutter_p2p) : Customization 
-- [android_identifier](https://github.com/JAICHANGPARK/android_identifier) : Customization
-- [flutter_bluetooth_switch](https://github.com/JAICHANGPARK/flutter_bluetooth_switch) : Customization 
+## 1. Flutter
 
 ### 🎞 Flutter Live Coding
 
@@ -58,10 +44,25 @@
 | S20	| 1001-1050 | [flutter_notebook_17th_story](https://github.com/JAICHANGPARK/flutter_notebook_17th_story) 	| [Flutter Live Coding S20](https://youtube.com/playlist?list=PLnz10ftgq9R_2fJ5MvuY5x_kO_2XJfQyh) 	|
 | S21	| 1051-1100 | [flutter_notebook_18th_story](https://github.com/JAICHANGPARK/flutter_notebook_18th_story) 	| [Flutter Live Coding S21](https://youtube.com/playlist?list=PLnz10ftgq9R9v3oUjWsqlQpLxNNc1VIGv) 	|
 | S22	| 1101-1150 | [flutter_notebook_19th_story](https://github.com/JAICHANGPARK/flutter_notebook_19th_story) 	| [Flutter Live Coding S22](https://youtube.com/playlist?list=PLnz10ftgq9R9iuiGytc9JzJNbg-9q74j4) 	|
-| S23	| 1151- | [flutter_notebook_20th_story](https://github.com/JAICHANGPARK/flutter_notebook_20th_story) 	| [Flutter Live Coding S23](https://youtube.com/playlist?list=PLnz10ftgq9R9Tu0D1bSQX2LV8B2X0ngmu) 	|
+| S23	| 1151-1200 | [flutter_notebook_20th_story](https://github.com/JAICHANGPARK/flutter_notebook_20th_story) 	| [Flutter Live Coding S23](https://youtube.com/playlist?list=PLnz10ftgq9R9Tu0D1bSQX2LV8B2X0ngmu) 	|
+| S24	| 1201- | [flutter_notebook_chapter_21](https://github.com/JAICHANGPARK/flutter_notebook_chapter_21) 	| [Flutter Live Coding S24](https://youtube.com/playlist?list=PLnz10ftgq9R_iCGYDlzxF1ZyAEfJMDXRj) 	|
 
+### 🦄Flutter 
 
-### Data & ML
+- BLE OTA with Esp32: [repo: flutter_esp32_bluetooth_ota](https://github.com/JAICHANGPARK/flutter_esp32_bluetooth_ota)
+- flutter_2fa_generator : [repo: flutter_2fa_generator](https://github.com/JAICHANGPARK/flutter_2fa_generator)
+- flutter_arduino_flash_tool: [repo: flutter_arduino_flash_tool](https://github.com/JAICHANGPARK/flutter_arduino_flash_tool)
+
+### 🎉 Flutter Packages
+
+- [horizontal_ratio_bar](https://github.com/JAICHANGPARK/horizontal_ratio_bar) : Go to [pub.dev](https://pub.dev/packages/horizontal_ratio_bar)
+- [Floor Chiper](https://github.com/JAICHANGPARK/floor_chiper) : based on floor with sqlcipher
+- [flutter_nearby_connections](https://github.com/JAICHANGPARK/flutter_nearby_connections) : Customization
+- [flutter_p2p](https://github.com/JAICHANGPARK/flutter_p2p) : Customization 
+- [android_identifier](https://github.com/JAICHANGPARK/android_identifier) : Customization
+- [flutter_bluetooth_switch](https://github.com/JAICHANGPARK/flutter_bluetooth_switch) : Customization 
+
+## 2. Data & ML
 - DataExperiment_Python: [repo](https://github.com/JAICHANGPARK/DataExperiment_Python)
 - workflow_automation: [repo](https://github.com/JAICHANGPARK/workflow_automation)
 - tensorflow-raspberrypi: [repo](https://github.com/JAICHANGPARK/tensorflow-raspberrypi)
@@ -70,14 +71,13 @@
 - Kaggle: [repo](https://github.com/JAICHANGPARK/Kaggle)
 - Neural_Network: [repo](https://github.com/JAICHANGPARK/Neural_Network)
 
-### 🧶 Embedded
+## 3. 🧶 Embedded
 
 ### ESP-32
 
 - BLE OTA : [repo: esp32_ble_ota](https://github.com/JAICHANGPARK/esp32_ble_ota)
 
-
-### 🎉 Apps
+## 4. 🎉 Apps
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
 
 **Covid-19**
@@ -110,11 +110,11 @@
 | <img src="https://play-lh.googleusercontent.com/NLv2SfKS42OXkuB9RGOvjjIWbtNXzP0gBtC-vzr1r5ya60i9ULqFbLltIkJuuBCSAyTt=s180-rw" width="64"/>  | DiabetesGuru-Fitness | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesfits)  | - | Native/Android | 🇰🇷 |
 
 
-### 📃 Thesis
+## 📃 Thesis
 
 - [Intelligent Healthcare System for Self-monitoring of Blood Glucose in Patients with Chronic Diabetes](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=11f72fbaa8a4fddcffe0bdc3ef48d419&outLink=K)
 
-### 📃 Paper
+## 📃 Paper
 
 - 2022
 1. Container-based wearable robot system design for Angel Legs platform, KROS, MAY 2022
@@ -140,11 +140,12 @@
 1. [Freezing Prevention System for USN Monitoring Possible Household Water Meter Box, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07536202)
 2. [Indoor location detection algorithm performance evaluation using the BLE Beacon, 2016](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06717746)
 
-### 🍕 Presentation
+## 🍕 Presentation
 - [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): [[Link]](https://youtu.be/inRfBJMCsQU), [[Repo]](https://github.com/JAICHANGPARK/devfest2019_songdo)
 - [Flutter Day Extended Korea] 이제 Null 안전하게 지켜줄게 (2020): [[Link]](https://youtu.be/h-LoVm6NMYs), [[Repo]](https://github.com/JAICHANGPARK/flutter_day_extended_seoul_2020)
 - [Google I/O extended with double S] Flutter Desktop (2021): [[Link]](https://sites.google.com/view/ioext-doubles/%ED%99%88), [[video]](https://youtu.be/H9rmLzINE8Q), [[pdf]](https://speakerdeck.com/itsmedreamwalker/o-21-extended-double-s-flutter-desktop)
 - [Flutter Festival Korea] Flutter Embedded (2022): [[Link]](https://www.meetup.com/Flutter-Korea/events/283623739/), [[video]](https://youtu.be/jW3pqIpQtQE), [[Repo]](https://github.com/JAICHANGPARK/flutter_festival_korea)
+- [Flutter I/O Extended Korea 2022] Flutter Linux Desktop with ROS2 (2022): [[Link]](https://festa.io/events/2361), [[Repo]](https://github.com/JAICHANGPARK/flutter_io_extended_2022)
 
 ## More
 [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
