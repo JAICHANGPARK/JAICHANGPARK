@@ -14,11 +14,20 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+
+## 🐋 Tech Stack
+![Dart](https://img.shields.io/badge/dart-%23363636.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%23363636.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%23363636.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23363636.svg?style=for-the-badge&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/Go-%23363636.svg?style=for-the-badge&logo=go&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23363636.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Android](https://img.shields.io/badge/android-%23363636.svg?style=for-the-badge&logo=android&logoColor=white) ![Python](https://img.shields.io/badge/python-%23363636?style=for-the-badge&logo=python&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23363636.svg?style=for-the-badge&logo=figma&logoColor=white) 
 -->
 
-## 1. Flutter
+## 🌐 Socials
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aristojeff)[![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&link=https://www.youtube.com/c/JAICHANGPARK/featured)](https://www.youtube.com/c/JAICHANGPARK/featured) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/itsmyowndreamwalker/)](https://www.instagram.com/itsmyowndreamwalker/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aristojeff@gmail.com)](mailto:aristojeff@gmail.com)
 
-### 🎞 Flutter Live Coding
+
+## 🌊 Flutter
+### Flutter Live Coding
 
 | Season 	| Episode 	| Repository 	| Video Link 	|
 |-	|-	|-	|-	|
@@ -45,9 +54,11 @@
 | S21	| 1051-1100 | [flutter_notebook_18th_story](https://github.com/JAICHANGPARK/flutter_notebook_18th_story) 	| [Flutter Live Coding S21](https://youtube.com/playlist?list=PLnz10ftgq9R9v3oUjWsqlQpLxNNc1VIGv) 	|
 | S22	| 1101-1150 | [flutter_notebook_19th_story](https://github.com/JAICHANGPARK/flutter_notebook_19th_story) 	| [Flutter Live Coding S22](https://youtube.com/playlist?list=PLnz10ftgq9R9iuiGytc9JzJNbg-9q74j4) 	|
 | S23	| 1151-1200 | [flutter_notebook_20th_story](https://github.com/JAICHANGPARK/flutter_notebook_20th_story) 	| [Flutter Live Coding S23](https://youtube.com/playlist?list=PLnz10ftgq9R9Tu0D1bSQX2LV8B2X0ngmu) 	|
-| S24	| 1201- | [flutter_notebook_chapter_21](https://github.com/JAICHANGPARK/flutter_notebook_chapter_21) 	| [Flutter Live Coding S24](https://youtube.com/playlist?list=PLnz10ftgq9R_iCGYDlzxF1ZyAEfJMDXRj) 	|
+| S24	| 1201-1250 | [flutter_notebook_chapter_21](https://github.com/JAICHANGPARK/flutter_notebook_chapter_21) 	| [Flutter Live Coding S24](https://youtube.com/playlist?list=PLnz10ftgq9R_iCGYDlzxF1ZyAEfJMDXRj) 	|
+| S25	| 1251- | [flutter_notebook_chapter_22](https://github.com/JAICHANGPARK/flutter_notebook_chapter_22) 	| [Flutter Live Coding S25](https://youtube.com/playlist?list=PLnz10ftgq9R_Uqp4AKSaybI6hUjFSy6rq) |
 
-### 🦄Flutter 
+<!--
+### 🦄 Flutter 
 
 - BLE OTA with Esp32: [repo: flutter_esp32_bluetooth_ota](https://github.com/JAICHANGPARK/flutter_esp32_bluetooth_ota)
 - flutter_2fa_generator : [repo: flutter_2fa_generator](https://github.com/JAICHANGPARK/flutter_2fa_generator)
@@ -76,9 +87,11 @@
 ### ESP-32
 
 - BLE OTA : [repo: esp32_ble_ota](https://github.com/JAICHANGPARK/esp32_ble_ota)
-
-## 4. 🎉 Apps
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
+--> 
+
+## 🛒 Apps on Store
+[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
 
 **Covid-19**
 |   | Name | Store | Repo | Framework | Local |
@@ -119,6 +132,8 @@
 - 2022
 1. Container-based wearable robot system design for Angel Legs platform, KROS, MAY 2022
 2. A Design Pattern of MCU-based real-time robot control system for Angel Legs Robot Platform, KROS, MAY 2022 
+3. Development of ROS2-based Angel Legs monitoring mobile application, ICROS, Jun 2022
+4. Development of Cloud Robotics Service and Data Management System for ANGLELEGS, a Wearable Robot for Rehabilitation Purposes, ICROS, Jun 2022
 
 - 2021
 1. [Therapeutic Exercise Platform for Type-2 Diabetic Mellitus, Electronics, 2021](https://www.mdpi.com/2079-9292/10/15/1820)
@@ -147,12 +162,7 @@
 - [Flutter Festival Korea] Flutter Embedded (2022): [[Link]](https://www.meetup.com/Flutter-Korea/events/283623739/), [[video]](https://youtu.be/jW3pqIpQtQE), [[Repo]](https://github.com/JAICHANGPARK/flutter_festival_korea)
 - [Flutter I/O Extended Korea 2022] Flutter Linux Desktop with ROS2 (2022): [[Link]](https://festa.io/events/2361), [[Repo]](https://github.com/JAICHANGPARK/flutter_io_extended_2022)
 
-## More
-[![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/JAICHANGPARK/featured)](https://www.youtube.com/c/JAICHANGPARK/featured) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/itsmyowndreamwalker/)](https://www.instagram.com/itsmyowndreamwalker/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aristojeff@gmail.com)](mailto:aristojeff@gmail.com)
-
+## GitHub Stats
 
 [![Dreamwalker's github stats](https://github-readme-stats.vercel.app/api?username=JAICHANGPARK&theme=material-palenight)](https://github.com/JAICHANGPARK/github-readme-stats)
 
