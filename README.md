@@ -55,7 +55,8 @@
 | S22	| 1101-1150 | [flutter_notebook_19th_story](https://github.com/JAICHANGPARK/flutter_notebook_19th_story) 	| [Flutter Live Coding S22](https://youtube.com/playlist?list=PLnz10ftgq9R9iuiGytc9JzJNbg-9q74j4) 	|
 | S23	| 1151-1200 | [flutter_notebook_20th_story](https://github.com/JAICHANGPARK/flutter_notebook_20th_story) 	| [Flutter Live Coding S23](https://youtube.com/playlist?list=PLnz10ftgq9R9Tu0D1bSQX2LV8B2X0ngmu) 	|
 | S24	| 1201-1250 | [flutter_notebook_chapter_21](https://github.com/JAICHANGPARK/flutter_notebook_chapter_21) 	| [Flutter Live Coding S24](https://youtube.com/playlist?list=PLnz10ftgq9R_iCGYDlzxF1ZyAEfJMDXRj) 	|
-| S25	| 1251- | [flutter_notebook_chapter_22](https://github.com/JAICHANGPARK/flutter_notebook_chapter_22) 	| [Flutter Live Coding S25](https://youtube.com/playlist?list=PLnz10ftgq9R_Uqp4AKSaybI6hUjFSy6rq) |
+| S25	| 1251-1300 | [flutter_notebook_chapter_22](https://github.com/JAICHANGPARK/flutter_notebook_chapter_22) 	| [Flutter Live Coding S25](https://youtube.com/playlist?list=PLnz10ftgq9R_Uqp4AKSaybI6hUjFSy6rq) |
+| S26	| 1301- | [flutter_notebook_chapter_23](https://github.com/JAICHANGPARK/flutter_notebook_chapter_23) | [Flutter Live Coding S26](https://youtube.com/playlist?list=PLnz10ftgq9R8e3eZ-B-zHsqfwym2A-_CQ) |
 
 <!--
 ### 🦄 Flutter 
@@ -161,6 +162,8 @@
 - [Google I/O extended with double S] Flutter Desktop (2021): [[Link]](https://sites.google.com/view/ioext-doubles/%ED%99%88), [[video]](https://youtu.be/H9rmLzINE8Q), [[pdf]](https://speakerdeck.com/itsmedreamwalker/o-21-extended-double-s-flutter-desktop)
 - [Flutter Festival Korea] Flutter Embedded (2022): [[Link]](https://www.meetup.com/Flutter-Korea/events/283623739/), [[video]](https://youtu.be/jW3pqIpQtQE), [[Repo]](https://github.com/JAICHANGPARK/flutter_festival_korea)
 - [Flutter I/O Extended Korea 2022] Flutter Linux Desktop with ROS2 (2022): [[Link]](https://festa.io/events/2361), [[Repo]](https://github.com/JAICHANGPARK/flutter_io_extended_2022)
+- [Droidkaigi 2022] FlutterをROS(ロボティクス)と一緒使ったらマジですごかった話 (2022): [[Link]](https://droidkaigi.jp/2022/), [[Repo1]](https://github.com/JAICHANGPARK/flutter_droidkaigi_2022), [[Repo2]](https://github.com/JAICHANGPARK/ros2_droidkaigi2022), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterworos-roboteikusu-to-xu-shi-tutaramazidesugokatutahua-droidkaigi2022)
+
 
 ## GitHub Stats
 
