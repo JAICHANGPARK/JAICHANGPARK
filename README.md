@@ -159,11 +159,12 @@
 ## 🍕 Presentation
 - [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): [[Link]](https://youtu.be/inRfBJMCsQU), [[Repo]](https://github.com/JAICHANGPARK/devfest2019_songdo)
 - [Flutter Day Extended Korea] 이제 Null 안전하게 지켜줄게 (2020): [[Link]](https://youtu.be/h-LoVm6NMYs), [[Repo]](https://github.com/JAICHANGPARK/flutter_day_extended_seoul_2020)
-- [Google I/O extended with double S] Flutter Desktop (2021): [[Link]](https://sites.google.com/view/ioext-doubles/%ED%99%88), [[video]](https://youtu.be/H9rmLzINE8Q), [[pdf]](https://speakerdeck.com/itsmedreamwalker/o-21-extended-double-s-flutter-desktop)
-- [Flutter Festival Korea] Flutter Embedded (2022): [[Link]](https://www.meetup.com/Flutter-Korea/events/283623739/), [[video]](https://youtu.be/jW3pqIpQtQE), [[Repo]](https://github.com/JAICHANGPARK/flutter_festival_korea)
+- [Google I/O extended with double S] Flutter Desktop (2021): [[Link]](https://sites.google.com/view/ioext-doubles/%ED%99%88), [[Video]](https://youtu.be/H9rmLzINE8Q), [[pdf]](https://speakerdeck.com/itsmedreamwalker/o-21-extended-double-s-flutter-desktop)
+- [Flutter Festival Korea] Flutter Embedded (2022): [[Link]](https://www.meetup.com/Flutter-Korea/events/283623739/), [[Video]](https://youtu.be/jW3pqIpQtQE), [[Repo]](https://github.com/JAICHANGPARK/flutter_festival_korea)
 - [Flutter I/O Extended Korea 2022] Flutter Linux Desktop with ROS2 (2022): [[Link]](https://festa.io/events/2361), [[Repo]](https://github.com/JAICHANGPARK/flutter_io_extended_2022)
 - [Droidkaigi 2022] FlutterをROS(ロボティクス)と一緒使ったらマジですごかった話 (2022): [[Link]](https://droidkaigi.jp/2022/), [[Repo1]](https://github.com/JAICHANGPARK/flutter_droidkaigi_2022), [[Repo2]](https://github.com/JAICHANGPARK/ros2_droidkaigi2022), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterworos-roboteikusu-to-xu-shi-tutaramazidesugokatutahua-droidkaigi2022)
-
+- [FlutterKaigi 2022] FlutterとRobotics(ロボティクス)のわくわく同居生活篇 (2022): [[Link]](https://flutterkaigi.jp/2022/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/fluttertorobotics-roboteikusu-nowakuwakutong-ju-sheng-huo-pian-at-flutterkaigi2022), [[Video]](https://youtu.be/xh2E5Tg2r3A?t=4200)
+- [DevFest 2022 Songdo] 최신 Flutter Desktop 톺아보기 (2022): [[Link]](https://festa.io/events/2758), [[Slide]](https://speakerdeck.com/itsmedreamwalker/coesin-flutter-desktop-topabogi-devfest-2022-songdo)
 
 ## GitHub Stats
 
