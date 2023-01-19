@@ -20,10 +20,10 @@
 -->
 
 ## 🌐 Socials
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aristojeff) [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
+[![SpeakerDeck Badge](https://img.shields.io/badge/SpeakerDeck-169389?style=for-the-badge&logo=SpeakerDeck&logoColor=white&link=https://speakerdeck.com/itsmedreamwalker)](https://speakerdeck.com/itsmedreamwalker) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aristojeff) [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&link=https://www.youtube.com/c/JAICHANGPARK/featured)](https://www.youtube.com/c/JAICHANGPARK/featured) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/itsmyowndreamwalker/)](https://www.instagram.com/itsmyowndreamwalker/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aristojeff@gmail.com)](mailto:aristojeff@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aristojeff@gmail.com)](mailto:aristojeff@gmail.com) 
 
 
 ## 🌊 Flutter
@@ -56,7 +56,9 @@
 | S23	| 1151-1200 | [flutter_notebook_20th_story](https://github.com/JAICHANGPARK/flutter_notebook_20th_story) 	| [Flutter Live Coding S23](https://youtube.com/playlist?list=PLnz10ftgq9R9Tu0D1bSQX2LV8B2X0ngmu) 	|
 | S24	| 1201-1250 | [flutter_notebook_chapter_21](https://github.com/JAICHANGPARK/flutter_notebook_chapter_21) 	| [Flutter Live Coding S24](https://youtube.com/playlist?list=PLnz10ftgq9R_iCGYDlzxF1ZyAEfJMDXRj) 	|
 | S25	| 1251-1300 | [flutter_notebook_chapter_22](https://github.com/JAICHANGPARK/flutter_notebook_chapter_22) 	| [Flutter Live Coding S25](https://youtube.com/playlist?list=PLnz10ftgq9R_Uqp4AKSaybI6hUjFSy6rq) |
-| S26	| 1301- | [flutter_notebook_chapter_23](https://github.com/JAICHANGPARK/flutter_notebook_chapter_23) | [Flutter Live Coding S26](https://youtube.com/playlist?list=PLnz10ftgq9R8e3eZ-B-zHsqfwym2A-_CQ) |
+| S26	| 1301-1350 | [flutter_notebook_chapter_23](https://github.com/JAICHANGPARK/flutter_notebook_chapter_23) | [Flutter Live Coding S26](https://youtube.com/playlist?list=PLnz10ftgq9R8e3eZ-B-zHsqfwym2A-_CQ) |
+| S27	| 1351-1400 | [flutter_notebook_chapter_24](https://github.com/JAICHANGPARK/flutter_notebook_chapter_24) | [Flutter Live Coding S27](https://youtube.com/playlist?list=PLnz10ftgq9R9Lf3u7tLU2fOTySiJNhunN) |
+| S28	| 1401- | [flutter_notebook_chapter_28](https://github.com/JAICHANGPARK/flutter_notebook_chapter_28) | [Flutter Live Coding S28](https://youtube.com/playlist?list=PLnz10ftgq9R--SuZ93yZhC7PDROpXdSXE) |
 
 <!--
 ### 🦄 Flutter 
@@ -165,6 +167,7 @@
 - [Droidkaigi 2022] FlutterをROS(ロボティクス)と一緒使ったらマジですごかった話 (2022): [[Link]](https://droidkaigi.jp/2022/), [[Repo1]](https://github.com/JAICHANGPARK/flutter_droidkaigi_2022), [[Repo2]](https://github.com/JAICHANGPARK/ros2_droidkaigi2022), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterworos-roboteikusu-to-xu-shi-tutaramazidesugokatutahua-droidkaigi2022), [[Video]](https://youtu.be/-g2p6wo2_3w),
 - [FlutterKaigi 2022] FlutterとRobotics(ロボティクス)のわくわく同居生活篇 (2022): [[Link]](https://flutterkaigi.jp/2022/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/fluttertorobotics-roboteikusu-nowakuwakutong-ju-sheng-huo-pian-at-flutterkaigi2022), [[Video]](https://youtu.be/xh2E5Tg2r3A?t=4200)
 - [DevFest 2022 Songdo] 최신 Flutter Desktop 톺아보기 (2022): [[Link]](https://festa.io/events/2758), [[Slide]](https://speakerdeck.com/itsmedreamwalker/coesin-flutter-desktop-topabogi-devfest-2022-songdo)
+- [MODUCON 2022] Flutter와 함께하는 ML 세상 탐험하기 (2022): [[Link]](https://moducon.kr/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterwa-hamggehaneun-ml-sesang-tamheomhagi-at-moducon2022)
 
 ## GitHub Stats
 
