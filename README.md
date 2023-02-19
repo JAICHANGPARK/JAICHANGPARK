@@ -165,9 +165,12 @@
 - [Flutter Festival Korea] Flutter Embedded (2022): [[Link]](https://www.meetup.com/Flutter-Korea/events/283623739/), [[Video]](https://youtu.be/jW3pqIpQtQE), [[Repo]](https://github.com/JAICHANGPARK/flutter_festival_korea)
 - [Flutter I/O Extended Korea 2022] Flutter Linux Desktop with ROS2 (2022): [[Link]](https://festa.io/events/2361), [[Repo]](https://github.com/JAICHANGPARK/flutter_io_extended_2022)
 - [Droidkaigi 2022] FlutterをROS(ロボティクス)と一緒使ったらマジですごかった話 (2022): [[Link]](https://droidkaigi.jp/2022/), [[Repo1]](https://github.com/JAICHANGPARK/flutter_droidkaigi_2022), [[Repo2]](https://github.com/JAICHANGPARK/ros2_droidkaigi2022), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterworos-roboteikusu-to-xu-shi-tutaramazidesugokatutahua-droidkaigi2022), [[Video]](https://youtu.be/-g2p6wo2_3w),
-- [FlutterKaigi 2022] FlutterとRobotics(ロボティクス)のわくわく同居生活篇 (2022): [[Link]](https://flutterkaigi.jp/2022/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/fluttertorobotics-roboteikusu-nowakuwakutong-ju-sheng-huo-pian-at-flutterkaigi2022), [[Video]](https://youtu.be/xh2E5Tg2r3A?t=4200)
+- [FlutterKaigi 2022] FlutterとRobotics(ロボティクス)のわくわく同居生活篇 (2022): [[Link]](https://flutterkaigi.jp/2022/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/fluttertorobotics-roboteikusu-nowakuwakutong-ju-sheng-huo-pian-at-flutterkaigi2022), [[Video]](https://youtu.be/xh2E5Tg2r3A?t=4200), [[Video]](https://youtu.be/785Xt4LyB14)
 - [DevFest 2022 Songdo] 최신 Flutter Desktop 톺아보기 (2022): [[Link]](https://festa.io/events/2758), [[Slide]](https://speakerdeck.com/itsmedreamwalker/coesin-flutter-desktop-topabogi-devfest-2022-songdo)
-- [MODUCON 2022] Flutter와 함께하는 ML 세상 탐험하기 (2022): [[Link]](https://moducon.kr/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterwa-hamggehaneun-ml-sesang-tamheomhagi-at-moducon2022)
+- [MODUCON 2022] Flutter와 함께하는 ML 세상 탐험하기 (2022): [[Link]](https://moducon.kr/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterwa-hamggehaneun-ml-sesang-tamheomhagi-at-moducon2022) [[Video]](https://youtu.be/1pLtE_akP90) 
+- [第3回 FlutterGakkai] 15分でわかる、Flutter ML 世界 (2023): [[Link]](https://fluttergakkai.connpass.com/event/266368/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/15fen-dewakaru-flutter-ml-shi-jie-at-fluttergakkai) [[Video]](https://www.youtube.com/live/IpcFqABBKvU?feature=share&t=323)
+- [Flutter Meetup Tokyo (#18) / Osaka (#10)] 2023 Flutter ロードマップ (2023): [[Link]](https://flutter-jp.connpass.com/event/271890/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/osaka-number-10) [[Video]](https://www.youtube.com/live/PADWhApakGo?feature=share&t=1614)
+
 
 ## GitHub Stats
 
