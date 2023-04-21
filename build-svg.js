@@ -1,8 +1,8 @@
 // const WEATHER_API_KEY = process.env.WEATHER_API_KEY
 
-let fs = require('fs')
-let got = require('got')
-let qty = require('js-quantities')
+let fs = require("fs");
+let got = require("got");
+let qty = require("js-quantities");
 // let formatDistance = require('date-fns/formatDistance')
 
 // let WEATHER_DOMAIN = 'http://dataservice.accuweather.com'
@@ -72,23 +72,21 @@ let qty = require('js-quantities')
 //     const degC = Math.round(qty(`${degF} tempF`).to('tempC').scalar)
 //     const icon = json.DailyForecasts[0].Day.Icon
 
-   
 //   })
 //   .catch((err) => {
 //     // TODO: something better
 //     console.log(err)
 //   })
 
-  fs.readFile('template.svg', 'utf-8', (error, data) => {
-    if (error) {
-      return
-    }
+fs.readFile("template.svg", "utf-8", (error, data) => {
+  if (error) {
+    return;
+  }
 
-   
-    data = fs.writeFile('chat.svg', data, (err) => {
-      if (err) {
-        console.error(err)
-        return
-      }
-    })
-  })
+  data = fs.writeFile("chat.svg", data, (err) => {
+    if (err) {
+      console.error(err);
+      return;
+    }
+  });
+});
