@@ -1,4 +1,4 @@
-<svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="600" height="350" viewBox="0 0 600 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -275,8 +275,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Flutter Seoul - Organizer</text>
-    <text x="15" y="50">GDG(Google Developer Groups) Golang Korea - Organizer</text>
+    <text x="15" y="27">Organizer of Flutter Seoul</text>
+    <text x="15" y="50">GDG(Google Developer Groups) Golang Korea</text>
   </g>
 
   <!-- typing 3 -->
@@ -299,7 +299,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="340" height="42" rx="18.0355" class="bubble" />
+    <rect width="340" height="66" rx="18.0355" class="bubble" />
     <text x="15" y="27">Flutter and Android Developer</text>
   </g>
 
