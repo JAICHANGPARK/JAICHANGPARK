@@ -58,7 +58,8 @@
 | S25	| 1251-1300 | [flutter_notebook_chapter_22](https://github.com/JAICHANGPARK/flutter_notebook_chapter_22) 	| [Flutter Live Coding S25](https://youtube.com/playlist?list=PLnz10ftgq9R_Uqp4AKSaybI6hUjFSy6rq) |
 | S26	| 1301-1350 | [flutter_notebook_chapter_23](https://github.com/JAICHANGPARK/flutter_notebook_chapter_23) | [Flutter Live Coding S26](https://youtube.com/playlist?list=PLnz10ftgq9R8e3eZ-B-zHsqfwym2A-_CQ) |
 | S27	| 1351-1400 | [flutter_notebook_chapter_24](https://github.com/JAICHANGPARK/flutter_notebook_chapter_24) | [Flutter Live Coding S27](https://youtube.com/playlist?list=PLnz10ftgq9R9Lf3u7tLU2fOTySiJNhunN) |
-| S28	| 1401- | [flutter_notebook_chapter_28](https://github.com/JAICHANGPARK/flutter_notebook_chapter_28) | [Flutter Live Coding S28](https://youtube.com/playlist?list=PLnz10ftgq9R--SuZ93yZhC7PDROpXdSXE) |
+| S28	| 1401-1450 | [flutter_notebook_chapter_28](https://github.com/JAICHANGPARK/flutter_notebook_chapter_28) | [Flutter Live Coding S28](https://youtube.com/playlist?list=PLnz10ftgq9R--SuZ93yZhC7PDROpXdSXE) |
+| S29	| 1451- | [flutter_notebook_chapter_29](https://github.com/JAICHANGPARK/flutter_notebook_chapter_29) | [Flutter Live Coding S29](https://youtube.com/playlist?list=PLnz10ftgq9R8t1MsuRN_5rf9NJxcnbt_U) |
 
 <!--
 ### 🦄 Flutter 
@@ -170,7 +171,9 @@
 - [MODUCON 2022] Flutter와 함께하는 ML 세상 탐험하기 (2022): [[Link]](https://moducon.kr/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterwa-hamggehaneun-ml-sesang-tamheomhagi-at-moducon2022) [[Video]](https://youtu.be/1pLtE_akP90) 
 - [第3回 FlutterGakkai] 15分でわかる、Flutter ML 世界 (2023): [[Link]](https://fluttergakkai.connpass.com/event/266368/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/15fen-dewakaru-flutter-ml-shi-jie-at-fluttergakkai) [[Video]](https://www.youtube.com/live/IpcFqABBKvU?feature=share&t=323)
 - [Flutter Meetup Tokyo (#18) / Osaka (#10)] 2023 Flutter ロードマップ (2023): [[Link]](https://flutter-jp.connpass.com/event/271890/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/osaka-number-10) [[Video]](https://www.youtube.com/live/PADWhApakGo?feature=share&t=1614)
-
+- [Flutter Forward Extended Korea] Flutter 2023 Roadmap (2023): [[Link]](https://festa.io/events/3201), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-2023-roadmap-at-flutter-forward-extended-korea) 
+- [MODUPOPxFlutter Seoul] Flutter 2023년 전략과 로드맵 (2023) [[Link]](https://festa.io/events/3358), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-2023-jeonryaggwa-rodeumaeb-bagjecang-at-modupop) 
+- [MODUPOPxFlutter Seoul] Anatomy of Riverpod (2023) [[Link]](https://festa.io/events/3375), [[Slide]](https://speakerdeck.com/itsmedreamwalker/anatomy-of-riverpod-bagjecang-at-modupop) 
 
 ## GitHub Stats
 
