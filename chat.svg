@@ -250,7 +250,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="133" height="42" rx="18.0355" />
+    <rect width="320" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm JaiChang (Dreamwalker)</text>
   </g>
 
@@ -274,7 +274,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="450" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Flutter Seoul - Organizer</text>
     <text x="15" y="50">GDG(Google Developer Groups) Golang Korea - Organizer</text>
   </g>
@@ -299,7 +299,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="340" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Flutter and Android Developer</text>
   </g>
 
@@ -323,7 +323,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
+    <rect width="550" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Twitter at
       <a xlink:href="https://twitter.com/jaichangpark">https://twitter.com/jaichangpark</a>
@@ -350,7 +350,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
+    <rect width="280" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm Flutter and Go Enthusiast</text>
   </g>
 
@@ -374,7 +374,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
-    <rect width="{dayBubbleWidth}" height="42" rx="18.0355" class="bubble" />
+    <rect width="240" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Have a great day <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
