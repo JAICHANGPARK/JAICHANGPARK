@@ -230,122 +230,128 @@
     </style>
   </defs>
 
-   <!-- typing 1 -->
-      <g transform="translate(10, 0)" class="typing-1">
-        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
-        <circle cx="13.591" cy="33.091" r="7.68185" />
-        <circle cx="3.54547" cy="41.9547" r="3.54547" />
+  <!-- typing 1 -->
+  <g transform="translate(10, 0)" class="typing-1">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
-        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-        </circle>
-      </g>
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
 
-      <!-- Hi, I'm Jason -->
-      <g transform="translate(10, 0)" class="msg-1">
-        <rect width="133" height="42" rx="18.0355" />
-        <text x="15" y="27">Hi, I'm JaiChang(Dreamwalker)</text>
-      </g>
+  </g>
 
-      <!-- typing 2 -->
-      <g transform="translate(10, 48)" class="typing-2">
-        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
-        <circle cx="13.591" cy="33.091" r="7.68185" />
-        <circle cx="3.54547" cy="41.9547" r="3.54547" />
+  <!-- Hi, I'm Jason -->
+  <g transform="translate(10, 0)" class="msg-1 bubble">
+    <rect width="133" height="42" rx="18.0355" />
+    <text x="15" y="27">Hi, I'm JaiChang (Dreamwalker)</text>
+  </g>
 
-        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-        </circle>
-      </g>
+  <!-- typing 2 -->
+  <g transform="translate(10, 48)" class="typing-2">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
-      <!-- From Columbus... -->
-      <g transform="translate(10, 48)" class="msg-2">
-        <rect width="418" height="66.1302" rx="18.0355" />
-        <text x="15" y="27">Flutter Seoul - Organizer</text>
-      </g>
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
 
-      <!-- typing 3 -->
-      <g transform="translate(10, 120)" class="typing-3">
-        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
-        <circle cx="13.591" cy="33.091" r="7.68185" />
-        <circle cx="3.54547" cy="41.9547" r="3.54547" />
+  </g>
 
-        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-        </circle>
-      </g>
-      oo
+  <!-- From Columbus... -->
+  <g transform="translate(10, 48)" class="msg-2">
+    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Flutter Seoul - Organizer</text>
+    <text x="15" y="50">GDG(Google Developer Groups) Golang Korea - Organizer</text>
+  </g>
 
-      <!-- From Columbus... -->
-      <g transform="translate(10, 120)" class="msg-3">
-        <rect width="430" height="66.1302" rx="18.0355" />
-        <text x="15" y="27">GDG(Google Developer Groups) Golang Korea - Organizer</text>
-      </g>
+  <!-- typing 3 -->
+  <g transform="translate(10, 120)" class="typing-3">
+  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
-      <!-- typing 4 -->
-      <g transform="translate(10, 192)" class="typing-4">
-        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
-        <circle cx="13.591" cy="33.091" r="7.68185" />
-        <circle cx="3.54547" cy="41.9547" r="3.54547" />
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
 
-        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-        </circle>
-      </g>
+  </g>
 
-      <!-- Twitter -->
-      <g transform="translate(10, 192)" class="msg-4">
-        <rect width="473" height="42" rx="18.0355" />
-        <text x="15" y="27">
-          You can find me on Twitter at
-          <a xlink:href="https://twitter.com/jaichangpark">https://twitter.com/jaichangpark</a>
-        </text>
-      </g>
+  <!-- Work ... -->
+  <g transform="translate(10, 120)" class="msg-3">
+    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Flutter&Android Developer</text>
+  </g>
 
-      <!-- typing 5 -->
-      <g transform="translate(10, 240)" class="typing-5">
-        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
-        <circle cx="13.591" cy="33.091" r="7.68185" />
-        <circle cx="3.54547" cy="41.9547" r="3.54547" />
+  <!-- typing 4 -->
+  <g transform="translate(10, 192)" class="typing-4">
+    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+    <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
-        <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-          <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
-        </circle>
-      </g>
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
 
-      <!-- Thanks -->
-      <g transform="translate(10, 240)" class="msg-5">
-        <rect width="210" height="42" rx="18.0355" />
-        <text x="15" y="27">Flutter & Go Enthusiast</text>
-      </g>
+  </g>
+
+  <!-- Twitter -->
+  <g transform="translate(10, 192)" class="msg-4">
+    <rect width="513" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">
+      You can find me on Twitter at
+      <a xlink:href="https://twitter.com/jaichangpark">https://twitter.com/jaichangpark</a>
+    </text>
+  </g>
+
+  <!-- typing 5 -->
+  <g transform="translate(10, 240)" class="typing-5">
+  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+  <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
+  <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
+
+    <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    </circle>
+
+  </g>
+
+  <!-- Thanks -->
+  <g transform="translate(10, 240)" class="msg-5">
+    <rect width="210" height="42" rx="18.0355" />
+    <text x="15" y="27">Flutter & Go Enthusiast</text>
+  </g>
+
 </svg>
