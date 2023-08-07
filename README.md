@@ -63,7 +63,7 @@
 | S28	| 1401-1450 | [flutter_notebook_chapter_28](https://github.com/JAICHANGPARK/flutter_notebook_chapter_28) | [Flutter Live Coding S28](https://youtube.com/playlist?list=PLnz10ftgq9R--SuZ93yZhC7PDROpXdSXE) |
 | S29	| 1451-1500 | [flutter_notebook_chapter_29](https://github.com/JAICHANGPARK/flutter_notebook_chapter_29) | [Flutter Live Coding S29](https://youtube.com/playlist?list=PLnz10ftgq9R8t1MsuRN_5rf9NJxcnbt_U) |
 | S30	| 1501-1550 | [flutter_notebook_chapter_30](https://github.com/JAICHANGPARK/flutter_notebook_chapter_30) | [Flutter Live Coding S30](https://youtube.com/playlist?list=PLnz10ftgq9R_07ck4NKjakg-7eyRN--v6) |
-| S31	| 1551- | [flutter_notebook_chapter_31](https://github.com/JAICHANGPARK/flutter_notebook_chapter_31) | [Flutter Live Coding S31](https://youtube.com/playlist?list=PLnz10ftgq9R9OFhCjF4KxfuwaOTa1pgws) |
+| S31	| 1551-1600 | [flutter_notebook_chapter_31](https://github.com/JAICHANGPARK/flutter_notebook_chapter_31) | [Flutter Live Coding S31](https://youtube.com/playlist?list=PLnz10ftgq9R9OFhCjF4KxfuwaOTa1pgws) |
 
 <!--
 ### 🦄 Flutter 
@@ -179,6 +179,8 @@
 - [MODUPOPxFlutter Seoul] Flutter 2023년 전략과 로드맵 (2023) [[Link]](https://festa.io/events/3358), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-2023-jeonryaggwa-rodeumaeb-bagjecang-at-modupop) 
 - [MODUPOPxFlutter Seoul] Anatomy of Riverpod (2023) [[Link]](https://festa.io/events/3375), [[Slide]](https://speakerdeck.com/itsmedreamwalker/anatomy-of-riverpod-bagjecang-at-modupop)
 - [Go to Busan 2023] Go with Flutter (2023) [[Link]](https://festa.io/events/3363),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/go-with-flutter-at-go-to-busan-2023-bagjecang)
+- [Go to Songdo 2023] TinyGo for Maker (2023) [[Link]](https://festa.io/events/3364),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/tinygo-for-maker-at-go-to-songdo-2023-bagjecang)
+- [I/O Extended 2023 Seoul] Flutter Google I/O 2023 Recap (2023) [[Link]](https://festa.io/events/3683),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-seoul)
 
 
 ## GitHub Stats
