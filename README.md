@@ -22,7 +22,9 @@
 [![](https://github.com/JAICHANGPARK/JAICHANGPARK/blob/master/chat.svg)](https://twitter.com/jaichangpark)
 
 ## 🌐 Socials
-[![SpeakerDeck Badge](https://img.shields.io/badge/SpeakerDeck-169389?style=for-the-badge&logo=SpeakerDeck&logoColor=white&link=https://speakerdeck.com/itsmedreamwalker)](https://speakerdeck.com/itsmedreamwalker) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aristojeff) [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
+[![SpeakerDeck Badge](https://img.shields.io/badge/SpeakerDeck-169389?style=for-the-badge&logo=SpeakerDeck&logoColor=white&link=https://speakerdeck.com/itsmedreamwalker)](https://speakerdeck.com/itsmedreamwalker) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/park-jaichang-40359a154)](https://www.linkedin.com/in/park-jaichang-40359a154/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aristojeff) [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&link=https://www.youtube.com/c/JAICHANGPARK/featured)](https://www.youtube.com/c/JAICHANGPARK/featured) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/itsmyowndreamwalker/)](https://www.instagram.com/itsmyowndreamwalker/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aristojeff@gmail.com)](mailto:aristojeff@gmail.com) 
@@ -64,6 +66,7 @@
 | S29	| 1451-1500 | [flutter_notebook_chapter_29](https://github.com/JAICHANGPARK/flutter_notebook_chapter_29) | [Flutter Live Coding S29](https://youtube.com/playlist?list=PLnz10ftgq9R8t1MsuRN_5rf9NJxcnbt_U) |
 | S30	| 1501-1550 | [flutter_notebook_chapter_30](https://github.com/JAICHANGPARK/flutter_notebook_chapter_30) | [Flutter Live Coding S30](https://youtube.com/playlist?list=PLnz10ftgq9R_07ck4NKjakg-7eyRN--v6) |
 | S31	| 1551-1600 | [flutter_notebook_chapter_31](https://github.com/JAICHANGPARK/flutter_notebook_chapter_31) | [Flutter Live Coding S31](https://youtube.com/playlist?list=PLnz10ftgq9R9OFhCjF4KxfuwaOTa1pgws) |
+| S32	| 1601- | [flutter_notebook_chapter_32](https://github.com/JAICHANGPARK/flutter_notebook_chapter_32) | [Flutter Live Coding S32](https://youtube.com/playlist?list=PLnz10ftgq9R9OFhCjF4KxfuwaOTa1pgws) |
 
 <!--
 ### 🦄 Flutter 
@@ -181,6 +184,7 @@
 - [Go to Busan 2023] Go with Flutter (2023) [[Link]](https://festa.io/events/3363),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/go-with-flutter-at-go-to-busan-2023-bagjecang)
 - [Go to Songdo 2023] TinyGo for Maker (2023) [[Link]](https://festa.io/events/3364),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/tinygo-for-maker-at-go-to-songdo-2023-bagjecang)
 - [I/O Extended 2023 Seoul] Flutter Google I/O 2023 Recap (2023) [[Link]](https://festa.io/events/3683),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-seoul)
+- [I/O Extended 2023 Incheon] Flutter💙Embedded (2023) [[Link]](https://festa.io/events/3780),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-incheon-bagjecang)
 
 
 ## GitHub Stats
