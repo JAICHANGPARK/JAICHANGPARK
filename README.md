@@ -66,7 +66,8 @@
 | S29	| 1451-1500 | [flutter_notebook_chapter_29](https://github.com/JAICHANGPARK/flutter_notebook_chapter_29) | [Flutter Live Coding S29](https://youtube.com/playlist?list=PLnz10ftgq9R8t1MsuRN_5rf9NJxcnbt_U) |
 | S30	| 1501-1550 | [flutter_notebook_chapter_30](https://github.com/JAICHANGPARK/flutter_notebook_chapter_30) | [Flutter Live Coding S30](https://youtube.com/playlist?list=PLnz10ftgq9R_07ck4NKjakg-7eyRN--v6) |
 | S31	| 1551-1600 | [flutter_notebook_chapter_31](https://github.com/JAICHANGPARK/flutter_notebook_chapter_31) | [Flutter Live Coding S31](https://youtube.com/playlist?list=PLnz10ftgq9R9OFhCjF4KxfuwaOTa1pgws) |
-| S32	| 1601- | [flutter_notebook_chapter_32](https://github.com/JAICHANGPARK/flutter_notebook_chapter_32) | [Flutter Live Coding S32](https://youtube.com/playlist?list=PLnz10ftgq9R9OFhCjF4KxfuwaOTa1pgws) |
+| S32	| 1601-1650 | [flutter_notebook_chapter_32](https://github.com/JAICHANGPARK/flutter_notebook_chapter_32) | [Flutter Live Coding S32](https://youtube.com/playlist?list=PLnz10ftgq9R9OFhCjF4KxfuwaOTa1pgws) |
+| S33	| 1651- | [flutter_notebook_chapter_33](https://github.com/JAICHANGPARK/flutter_notebook_chapter_33) | [Flutter Live Coding S33](https://youtube.com/playlist?list=PLnz10ftgq9R8kofQtFP0vWjk1jgESmpP0&feature=shared) |
 
 <!--
 ### 🦄 Flutter 
@@ -185,11 +186,16 @@
 - [Go to Songdo 2023] TinyGo for Maker (2023) [[Link]](https://festa.io/events/3364),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/tinygo-for-maker-at-go-to-songdo-2023-bagjecang)
 - [I/O Extended 2023 Seoul] Flutter Google I/O 2023 Recap (2023) [[Link]](https://festa.io/events/3683),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-seoul)
 - [I/O Extended 2023 Incheon] Flutter💙Embedded (2023) [[Link]](https://festa.io/events/3780),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-incheon-bagjecang)
+- [I/O Extended 2023 Cloud Busan & Busan] Flutter Google I/O 2023 Recap Busan Edition (2023) [[Link]](https://festa.io/events/3820),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-cloud-busan-and-busan)
+- [Flutter MeetUp - In Songdo] Flutter CustomPaint Vol.1 (2023) [[Link]](https://festa.io/events/3887), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-custompaint-at-flutter-meetup-in-songdo-bagjecang), [[Video]](https://youtu.be/zp6nybNYjBQ?feature=shared)
 
+
+<!--
 
 ## GitHub Stats
 
 [![Dreamwalker's github stats](https://github-readme-stats.vercel.app/api?username=JAICHANGPARK&theme=material-palenight)](https://github.com/JAICHANGPARK/github-readme-stats)
+-->
 
 <!--
 **JAICHANGPARK/JAICHANGPARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
