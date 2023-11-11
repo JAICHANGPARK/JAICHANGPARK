@@ -188,7 +188,8 @@
 - [I/O Extended 2023 Incheon] Flutter💙Embedded (2023) [[Link]](https://festa.io/events/3780),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-incheon-bagjecang)
 - [I/O Extended 2023 Cloud Busan & Busan] Flutter Google I/O 2023 Recap Busan Edition (2023) [[Link]](https://festa.io/events/3820),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-cloud-busan-and-busan)
 - [Flutter MeetUp - In Songdo] Flutter CustomPaint Vol.1 (2023) [[Link]](https://festa.io/events/3887), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-custompaint-at-flutter-meetup-in-songdo-bagjecang), [[Video]](https://youtu.be/zp6nybNYjBQ?feature=shared)
-
+- [DEVOCEAN 5TH TECHDAY] DEVOCEAN 5TH TECHDAY (2023) [[Link1]](https://devocean.sk.com/events/view.do?id=181), [[Link2]](https://devocean.sk.com/vlog/view.do?id=432&vcode=A01), [[Slide]](https://devocean.sk.com/vlog/TechDay/05_se5.pdf), [[Video]](https://youtu.be/28qond0X9yI?feature=shared)
+- [Flutter Developer Meetup - Seoul] Flutter Developer Meetup - Seoul (2023) [[Link]](https://festa.io/events/4202), [[Slide]](https://speakerdeck.com/itsmedreamwalker/bidulgi-bagjecang-flutter-developer-meetup-seoul)
 
 <!--
 
