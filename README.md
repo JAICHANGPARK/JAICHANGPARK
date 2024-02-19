@@ -67,7 +67,10 @@
 | S30	| 1501-1550 | [flutter_notebook_chapter_30](https://github.com/JAICHANGPARK/flutter_notebook_chapter_30) | [Flutter Live Coding S30](https://youtube.com/playlist?list=PLnz10ftgq9R_07ck4NKjakg-7eyRN--v6) |
 | S31	| 1551-1600 | [flutter_notebook_chapter_31](https://github.com/JAICHANGPARK/flutter_notebook_chapter_31) | [Flutter Live Coding S31](https://youtube.com/playlist?list=PLnz10ftgq9R9OFhCjF4KxfuwaOTa1pgws) |
 | S32	| 1601-1650 | [flutter_notebook_chapter_32](https://github.com/JAICHANGPARK/flutter_notebook_chapter_32) | [Flutter Live Coding S32](https://youtube.com/playlist?list=PLnz10ftgq9R9OFhCjF4KxfuwaOTa1pgws) |
-| S33	| 1651- | [flutter_notebook_chapter_33](https://github.com/JAICHANGPARK/flutter_notebook_chapter_33) | [Flutter Live Coding S33](https://youtube.com/playlist?list=PLnz10ftgq9R8kofQtFP0vWjk1jgESmpP0&feature=shared) |
+| S33	| 1651-1700 | [flutter_notebook_chapter_33](https://github.com/JAICHANGPARK/flutter_notebook_chapter_33) | [Flutter Live Coding S33](https://youtube.com/playlist?list=PLnz10ftgq9R8kofQtFP0vWjk1jgESmpP0&feature=shared) |
+| S34	| 1701-1750 | [flutter_notebook_chapter_34](https://github.com/JAICHANGPARK/flutter_notebook_chapter_34) | [Flutter Live Coding S34]() |
+| S35	| 1751- | [flutter_notebook_chapter_35](https://github.com/JAICHANGPARK/flutter_notebook_chapter_35) | [Flutter Live Coding S35]() |
+
 
 <!--
 ### 🦄 Flutter 
@@ -101,6 +104,76 @@
 - BLE OTA : [repo: esp32_ble_ota](https://github.com/JAICHANGPARK/esp32_ble_ota)
 - Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
 --> 
+--- 
+
+## 📃 Thesis
+
+- [Intelligent Healthcare System for Self-monitoring of Blood Glucose in Patients with Chronic Diabetes](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=11f72fbaa8a4fddcffe0bdc3ef48d419&outLink=K)
+
+--- 
+
+## 📃 Paper
+
+- 2022
+1. Container-based wearable robot system design for Angel Legs platform, KROS, MAY 2022
+2. A Design Pattern of MCU-based real-time robot control system for Angel Legs Robot Platform, KROS, MAY 2022 
+3. Development of ROS2-based Angel Legs monitoring mobile application, ICROS, Jun 2022
+4. Development of Cloud Robotics Service and Data Management System for ANGLELEGS, a Wearable Robot for Rehabilitation Purposes, ICROS, Jun 2022
+
+- 2021
+1. [Therapeutic Exercise Platform for Type-2 Diabetic Mellitus, Electronics, 2021](https://www.mdpi.com/2079-9292/10/15/1820)
+2. [Self-Care IoT Platform for Diabetic Mellitus, Appl. Sci, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
+3. Acquisition of Gait Ability Indexes Using a Lower-limb Rehabilitation Wearable Robot, ICROS, 2021
+4. Development of a Mobile Application for Assessment of Gait Ability of Wearable Robot, ICROS, 2021
+5. A Mobile Application for Gait Analysis of Wearable Robot for Incomplete Lower Extremity Paralysis, ICCAS, 2021
+6. Acquisition of Indexes to Evaluate Gait Ability Using a Lower-limb Rehabilitation Wearable Robotm ICCAS, 2021
+
+- 2020 
+1. [A User Interface System of a Robot-Aided Gait Training System for Complete Paraplegics, ICCAS, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10493769)
+
+- 2019
+1. [Exercise Coaching System based on Indoor Bicycle for Diabetic Patients, 2019](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201909469054281)
+2. [Gait Analysis Using a Wearable Mobile Device, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739553)
+3. [Development of a Mobile Application for Monitoring Wearable Robots, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739554)
+
+- 2018
+1. [Freezing Prevention System for USN Monitoring Possible Household Water Meter Box, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07536202)
+2. [Indoor location detection algorithm performance evaluation using the BLE Beacon, 2016](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06717746)
+
+--- 
+
+## Teaching Experiences
+- 2023 [15개 프로젝트로 실무까지 끝내는 Dart & Flutter 앱 개발, Fastcampus](https://fastcampus.co.kr/dev_online_dartflutter)
+- 2024 [Flutter 심화 프로젝트: 상태관리와 확장 가능한 앱 아키텍처 with BLoC & Riverpod, Fastcampus](https://fastcampus.co.kr/dev_online_flutterstate)
+  
+--- 
+
+## 🍕 Presentations
+- [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): [[Link]](https://youtu.be/inRfBJMCsQU), [[Repo]](https://github.com/JAICHANGPARK/devfest2019_songdo)
+- [Flutter Day Extended Korea] 이제 Null 안전하게 지켜줄게 (2020): [[Link]](https://youtu.be/h-LoVm6NMYs), [[Repo]](https://github.com/JAICHANGPARK/flutter_day_extended_seoul_2020)
+- [Google I/O extended with double S] Flutter Desktop (2021): [[Link]](https://sites.google.com/view/ioext-doubles/%ED%99%88), [[Video]](https://youtu.be/H9rmLzINE8Q), [[pdf]](https://speakerdeck.com/itsmedreamwalker/o-21-extended-double-s-flutter-desktop)
+- [Flutter Festival Korea] Flutter Embedded (2022): [[Link]](https://www.meetup.com/Flutter-Korea/events/283623739/), [[Video]](https://youtu.be/jW3pqIpQtQE), [[Repo]](https://github.com/JAICHANGPARK/flutter_festival_korea)
+- [Flutter I/O Extended Korea 2022] Flutter Linux Desktop with ROS2 (2022): [[Link]](https://festa.io/events/2361), [[Repo]](https://github.com/JAICHANGPARK/flutter_io_extended_2022)
+- [Droidkaigi 2022] FlutterをROS(ロボティクス)と一緒使ったらマジですごかった話 (2022): [[Link]](https://droidkaigi.jp/2022/), [[Repo1]](https://github.com/JAICHANGPARK/flutter_droidkaigi_2022), [[Repo2]](https://github.com/JAICHANGPARK/ros2_droidkaigi2022), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterworos-roboteikusu-to-xu-shi-tutaramazidesugokatutahua-droidkaigi2022), [[Video]](https://youtu.be/-g2p6wo2_3w),
+- [FlutterKaigi 2022] FlutterとRobotics(ロボティクス)のわくわく同居生活篇 (2022): [[Link]](https://flutterkaigi.jp/2022/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/fluttertorobotics-roboteikusu-nowakuwakutong-ju-sheng-huo-pian-at-flutterkaigi2022), [[Video]](https://youtu.be/xh2E5Tg2r3A?t=4200), [[Video]](https://youtu.be/785Xt4LyB14)
+- [DevFest 2022 Songdo] 최신 Flutter Desktop 톺아보기 (2022): [[Link]](https://festa.io/events/2758), [[Slide]](https://speakerdeck.com/itsmedreamwalker/coesin-flutter-desktop-topabogi-devfest-2022-songdo)
+- [MODUCON 2022] Flutter와 함께하는 ML 세상 탐험하기 (2022): [[Link]](https://moducon.kr/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterwa-hamggehaneun-ml-sesang-tamheomhagi-at-moducon2022) [[Video]](https://youtu.be/1pLtE_akP90) 
+- [第3回 FlutterGakkai] 15分でわかる、Flutter ML 世界 (2023): [[Link]](https://fluttergakkai.connpass.com/event/266368/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/15fen-dewakaru-flutter-ml-shi-jie-at-fluttergakkai) [[Video]](https://www.youtube.com/live/IpcFqABBKvU?feature=share&t=323)
+- [Flutter Meetup Tokyo (#18) / Osaka (#10)] 2023 Flutter ロードマップ (2023): [[Link]](https://flutter-jp.connpass.com/event/271890/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/osaka-number-10) [[Video]](https://www.youtube.com/live/PADWhApakGo?feature=share&t=1614)
+- [Flutter Forward Extended Korea] Flutter 2023 Roadmap (2023): [[Link]](https://festa.io/events/3201), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-2023-roadmap-at-flutter-forward-extended-korea) 
+- [MODUPOPxFlutter Seoul] Flutter 2023년 전략과 로드맵 (2023) [[Link]](https://festa.io/events/3358), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-2023-jeonryaggwa-rodeumaeb-bagjecang-at-modupop) 
+- [MODUPOPxFlutter Seoul] Anatomy of Riverpod (2023) [[Link]](https://festa.io/events/3375), [[Slide]](https://speakerdeck.com/itsmedreamwalker/anatomy-of-riverpod-bagjecang-at-modupop)
+- [Go to Busan 2023] Go with Flutter (2023) [[Link]](https://festa.io/events/3363),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/go-with-flutter-at-go-to-busan-2023-bagjecang)
+- [Go to Songdo 2023] TinyGo for Maker (2023) [[Link]](https://festa.io/events/3364),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/tinygo-for-maker-at-go-to-songdo-2023-bagjecang)
+- [I/O Extended 2023 Seoul] Flutter Google I/O 2023 Recap (2023) [[Link]](https://festa.io/events/3683),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-seoul)
+- [I/O Extended 2023 Incheon] Flutter💙Embedded (2023) [[Link]](https://festa.io/events/3780),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-incheon-bagjecang)
+- [I/O Extended 2023 Cloud Busan & Busan] Flutter Google I/O 2023 Recap Busan Edition (2023) [[Link]](https://festa.io/events/3820),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-cloud-busan-and-busan)
+- [Flutter MeetUp - In Songdo] Flutter CustomPaint Vol.1 (2023) [[Link]](https://festa.io/events/3887), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-custompaint-at-flutter-meetup-in-songdo-bagjecang), [[Video]](https://youtu.be/zp6nybNYjBQ?feature=shared)
+- [DEVOCEAN 5TH TECHDAY] DEVOCEAN 5TH TECHDAY (2023) [[Link1]](https://devocean.sk.com/events/view.do?id=181), [[Link2]](https://devocean.sk.com/vlog/view.do?id=432&vcode=A01), [[Slide]](https://devocean.sk.com/vlog/TechDay/05_se5.pdf), [[Video]](https://youtu.be/28qond0X9yI?feature=shared)
+- [Flutter Developer Meetup - Seoul] Flutter Developer Meetup - Seoul (2023) [[Link]](https://festa.io/events/4202), [[Slide]](https://speakerdeck.com/itsmedreamwalker/bidulgi-bagjecang-flutter-developer-meetup-seoul)
+- [DEVFEST 2023 Songdo] DEVFEST 2023 Songdo (2023) [[Link]](https://festa.io/events/4246), [[Slide]](https://speakerdeck.com/itsmedreamwalker/devfest-2023-songdo-dart-interoperability-part-dot-1-bagjecang)
+
+--- 
 
 ## 🛒 Apps on Store
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
@@ -134,62 +207,6 @@
 | <img src="https://play-lh.googleusercontent.com/6EQAR5_DAI6tFqqiZy4EsumhkC2vUnBkPg2vhueegoYlZRd3YJaXDlwuQa605VL6pgk=s180-rw" width="64"/>  | DiabetesGuru(Foodie) | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesfoodypilot)  | - | Native/Android | 🇰🇷 |
 | <img src="https://play-lh.googleusercontent.com/NLv2SfKS42OXkuB9RGOvjjIWbtNXzP0gBtC-vzr1r5ya60i9ULqFbLltIkJuuBCSAyTt=s180-rw" width="64"/>  | DiabetesGuru-Fitness | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesfits)  | - | Native/Android | 🇰🇷 |
 
-
-## 📃 Thesis
-
-- [Intelligent Healthcare System for Self-monitoring of Blood Glucose in Patients with Chronic Diabetes](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=11f72fbaa8a4fddcffe0bdc3ef48d419&outLink=K)
-
-## 📃 Paper
-
-- 2022
-1. Container-based wearable robot system design for Angel Legs platform, KROS, MAY 2022
-2. A Design Pattern of MCU-based real-time robot control system for Angel Legs Robot Platform, KROS, MAY 2022 
-3. Development of ROS2-based Angel Legs monitoring mobile application, ICROS, Jun 2022
-4. Development of Cloud Robotics Service and Data Management System for ANGLELEGS, a Wearable Robot for Rehabilitation Purposes, ICROS, Jun 2022
-
-- 2021
-1. [Therapeutic Exercise Platform for Type-2 Diabetic Mellitus, Electronics, 2021](https://www.mdpi.com/2079-9292/10/15/1820)
-2. [Self-Care IoT Platform for Diabetic Mellitus, Appl. Sci, 2021](https://www.mdpi.com/2076-3417/11/5/2006)
-3. Acquisition of Gait Ability Indexes Using a Lower-limb Rehabilitation Wearable Robot, ICROS, 2021
-4. Development of a Mobile Application for Assessment of Gait Ability of Wearable Robot, ICROS, 2021
-5. A Mobile Application for Gait Analysis of Wearable Robot for Incomplete Lower Extremity Paralysis, ICCAS, 2021
-6. Acquisition of Indexes to Evaluate Gait Ability Using a Lower-limb Rehabilitation Wearable Robotm ICCAS, 2021
-
-- 2020 
-1. [A User Interface System of a Robot-Aided Gait Training System for Complete Paraplegics, ICCAS, 2020](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10493769)
-
-- 2019
-1. [Exercise Coaching System based on Indoor Bicycle for Diabetic Patients, 2019](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201909469054281)
-2. [Gait Analysis Using a Wearable Mobile Device, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739553)
-3. [Development of a Mobile Application for Monitoring Wearable Robots, 2019](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08739554)
-
-- 2018
-1. [Freezing Prevention System for USN Monitoring Possible Household Water Meter Box, 2018](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07536202)
-2. [Indoor location detection algorithm performance evaluation using the BLE Beacon, 2016](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06717746)
-
-## 🍕 Presentation
-- [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): [[Link]](https://youtu.be/inRfBJMCsQU), [[Repo]](https://github.com/JAICHANGPARK/devfest2019_songdo)
-- [Flutter Day Extended Korea] 이제 Null 안전하게 지켜줄게 (2020): [[Link]](https://youtu.be/h-LoVm6NMYs), [[Repo]](https://github.com/JAICHANGPARK/flutter_day_extended_seoul_2020)
-- [Google I/O extended with double S] Flutter Desktop (2021): [[Link]](https://sites.google.com/view/ioext-doubles/%ED%99%88), [[Video]](https://youtu.be/H9rmLzINE8Q), [[pdf]](https://speakerdeck.com/itsmedreamwalker/o-21-extended-double-s-flutter-desktop)
-- [Flutter Festival Korea] Flutter Embedded (2022): [[Link]](https://www.meetup.com/Flutter-Korea/events/283623739/), [[Video]](https://youtu.be/jW3pqIpQtQE), [[Repo]](https://github.com/JAICHANGPARK/flutter_festival_korea)
-- [Flutter I/O Extended Korea 2022] Flutter Linux Desktop with ROS2 (2022): [[Link]](https://festa.io/events/2361), [[Repo]](https://github.com/JAICHANGPARK/flutter_io_extended_2022)
-- [Droidkaigi 2022] FlutterをROS(ロボティクス)と一緒使ったらマジですごかった話 (2022): [[Link]](https://droidkaigi.jp/2022/), [[Repo1]](https://github.com/JAICHANGPARK/flutter_droidkaigi_2022), [[Repo2]](https://github.com/JAICHANGPARK/ros2_droidkaigi2022), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterworos-roboteikusu-to-xu-shi-tutaramazidesugokatutahua-droidkaigi2022), [[Video]](https://youtu.be/-g2p6wo2_3w),
-- [FlutterKaigi 2022] FlutterとRobotics(ロボティクス)のわくわく同居生活篇 (2022): [[Link]](https://flutterkaigi.jp/2022/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/fluttertorobotics-roboteikusu-nowakuwakutong-ju-sheng-huo-pian-at-flutterkaigi2022), [[Video]](https://youtu.be/xh2E5Tg2r3A?t=4200), [[Video]](https://youtu.be/785Xt4LyB14)
-- [DevFest 2022 Songdo] 최신 Flutter Desktop 톺아보기 (2022): [[Link]](https://festa.io/events/2758), [[Slide]](https://speakerdeck.com/itsmedreamwalker/coesin-flutter-desktop-topabogi-devfest-2022-songdo)
-- [MODUCON 2022] Flutter와 함께하는 ML 세상 탐험하기 (2022): [[Link]](https://moducon.kr/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutterwa-hamggehaneun-ml-sesang-tamheomhagi-at-moducon2022) [[Video]](https://youtu.be/1pLtE_akP90) 
-- [第3回 FlutterGakkai] 15分でわかる、Flutter ML 世界 (2023): [[Link]](https://fluttergakkai.connpass.com/event/266368/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/15fen-dewakaru-flutter-ml-shi-jie-at-fluttergakkai) [[Video]](https://www.youtube.com/live/IpcFqABBKvU?feature=share&t=323)
-- [Flutter Meetup Tokyo (#18) / Osaka (#10)] 2023 Flutter ロードマップ (2023): [[Link]](https://flutter-jp.connpass.com/event/271890/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/osaka-number-10) [[Video]](https://www.youtube.com/live/PADWhApakGo?feature=share&t=1614)
-- [Flutter Forward Extended Korea] Flutter 2023 Roadmap (2023): [[Link]](https://festa.io/events/3201), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-2023-roadmap-at-flutter-forward-extended-korea) 
-- [MODUPOPxFlutter Seoul] Flutter 2023년 전략과 로드맵 (2023) [[Link]](https://festa.io/events/3358), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-2023-jeonryaggwa-rodeumaeb-bagjecang-at-modupop) 
-- [MODUPOPxFlutter Seoul] Anatomy of Riverpod (2023) [[Link]](https://festa.io/events/3375), [[Slide]](https://speakerdeck.com/itsmedreamwalker/anatomy-of-riverpod-bagjecang-at-modupop)
-- [Go to Busan 2023] Go with Flutter (2023) [[Link]](https://festa.io/events/3363),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/go-with-flutter-at-go-to-busan-2023-bagjecang)
-- [Go to Songdo 2023] TinyGo for Maker (2023) [[Link]](https://festa.io/events/3364),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/tinygo-for-maker-at-go-to-songdo-2023-bagjecang)
-- [I/O Extended 2023 Seoul] Flutter Google I/O 2023 Recap (2023) [[Link]](https://festa.io/events/3683),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-seoul)
-- [I/O Extended 2023 Incheon] Flutter💙Embedded (2023) [[Link]](https://festa.io/events/3780),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-incheon-bagjecang)
-- [I/O Extended 2023 Cloud Busan & Busan] Flutter Google I/O 2023 Recap Busan Edition (2023) [[Link]](https://festa.io/events/3820),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-cloud-busan-and-busan)
-- [Flutter MeetUp - In Songdo] Flutter CustomPaint Vol.1 (2023) [[Link]](https://festa.io/events/3887), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-custompaint-at-flutter-meetup-in-songdo-bagjecang), [[Video]](https://youtu.be/zp6nybNYjBQ?feature=shared)
-- [DEVOCEAN 5TH TECHDAY] DEVOCEAN 5TH TECHDAY (2023) [[Link1]](https://devocean.sk.com/events/view.do?id=181), [[Link2]](https://devocean.sk.com/vlog/view.do?id=432&vcode=A01), [[Slide]](https://devocean.sk.com/vlog/TechDay/05_se5.pdf), [[Video]](https://youtu.be/28qond0X9yI?feature=shared)
-- [Flutter Developer Meetup - Seoul] Flutter Developer Meetup - Seoul (2023) [[Link]](https://festa.io/events/4202), [[Slide]](https://speakerdeck.com/itsmedreamwalker/bidulgi-bagjecang-flutter-developer-meetup-seoul)
 
 <!--
 
