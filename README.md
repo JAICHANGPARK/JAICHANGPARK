@@ -169,9 +169,11 @@
 - [I/O Extended 2023 Incheon] Flutter💙Embedded (2023) [[Link]](https://festa.io/events/3780),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-incheon-bagjecang)
 - [I/O Extended 2023 Cloud Busan & Busan] Flutter Google I/O 2023 Recap Busan Edition (2023) [[Link]](https://festa.io/events/3820),  [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-2023-cloud-busan-and-busan)
 - [Flutter MeetUp - In Songdo] Flutter CustomPaint Vol.1 (2023) [[Link]](https://festa.io/events/3887), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-custompaint-at-flutter-meetup-in-songdo-bagjecang), [[Video]](https://youtu.be/zp6nybNYjBQ?feature=shared)
-- [DEVOCEAN 5TH TECHDAY] DEVOCEAN 5TH TECHDAY (2023) [[Link1]](https://devocean.sk.com/events/view.do?id=181), [[Link2]](https://devocean.sk.com/vlog/view.do?id=432&vcode=A01), [[Slide]](https://devocean.sk.com/vlog/TechDay/05_se5.pdf), [[Video]](https://youtu.be/28qond0X9yI?feature=shared)
-- [Flutter Developer Meetup - Seoul] Flutter Developer Meetup - Seoul (2023) [[Link]](https://festa.io/events/4202), [[Slide]](https://speakerdeck.com/itsmedreamwalker/bidulgi-bagjecang-flutter-developer-meetup-seoul)
-- [DEVFEST 2023 Songdo] DEVFEST 2023 Songdo (2023) [[Link]](https://festa.io/events/4246), [[Slide]](https://speakerdeck.com/itsmedreamwalker/devfest-2023-songdo-dart-interoperability-part-dot-1-bagjecang)
+- [DEVOCEAN 5TH TECHDAY] Community-Driven-Development (2023) [[Link1]](https://devocean.sk.com/events/view.do?id=181), [[Link2]](https://devocean.sk.com/vlog/view.do?id=432&vcode=A01), [[Slide]](https://devocean.sk.com/vlog/TechDay/05_se5.pdf), [[Video]](https://youtu.be/28qond0X9yI?feature=shared)
+- [Flutter Developer Meetup - Seoul] 비둘기 (2023) [[Link]](https://festa.io/events/4202), [[Slide]](https://speakerdeck.com/itsmedreamwalker/bidulgi-bagjecang-flutter-developer-meetup-seoul)
+- [DEVFEST 2023 Songdo] Dart Interoperability Part.1 (2023) [[Link]](https://festa.io/events/4246), [[Slide]](https://speakerdeck.com/itsmedreamwalker/devfest-2023-songdo-dart-interoperability-part-dot-1-bagjecang)
+- [HelloWorld 24] Go 언어로 쉽고 빠르게 서버 만들기 (2024) [[Link]](https://festa.io/events/4757), [[Slide]](https://speakerdeck.com/itsmedreamwalker/helloworld24-go-eoneoro-swibgo-bbareuge-seobeo-mandeulgi-bagjecang)
+- [Build with AI 2024 Seoul] 제로부터 시작하는 Flutter with Gemini 생활 (2024) [[Link]](https://festa.io/events/4777), [[Slide]](https://speakerdeck.com/itsmedreamwalker/build-with-ai-2024-seoul-jerobuteo-sijaghaneun-flutter-with-gemini-saenghwal-bagjecang)
 
 --- 
 
