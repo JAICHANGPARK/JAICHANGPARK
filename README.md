@@ -69,7 +69,9 @@
 | S32	| 1601-1650 | [flutter_notebook_chapter_32](https://github.com/JAICHANGPARK/flutter_notebook_chapter_32) | [Flutter Live Coding S32](https://youtube.com/playlist?list=PLnz10ftgq9R9OFhCjF4KxfuwaOTa1pgws) |
 | S33	| 1651-1700 | [flutter_notebook_chapter_33](https://github.com/JAICHANGPARK/flutter_notebook_chapter_33) | [Flutter Live Coding S33](https://youtube.com/playlist?list=PLnz10ftgq9R8kofQtFP0vWjk1jgESmpP0&feature=shared) |
 | S34	| 1701-1750 | [flutter_notebook_chapter_34](https://github.com/JAICHANGPARK/flutter_notebook_chapter_34) | [Flutter Live Coding S34]() |
-| S35	| 1751- | [flutter_notebook_chapter_35](https://github.com/JAICHANGPARK/flutter_notebook_chapter_35) | [Flutter Live Coding S35]() |
+| S35	| 1751-1800 | [flutter_notebook_chapter_35](https://github.com/JAICHANGPARK/flutter_notebook_chapter_35) | [Flutter Live Coding S35]() |
+| S36	| 1801-1850 | [flutter_notebook_chapter_36](https://github.com/JAICHANGPARK/flutter_notebook_chapter_36) | [Flutter Live Coding S36]() |
+| S37	| 1851-1900 | [flutter_notebook_chapter_37](https://github.com/JAICHANGPARK/flutter_notebook_chapter_37) | [Flutter Live Coding S37]() |
 
 
 <!--
@@ -174,6 +176,7 @@
 - [DEVFEST 2023 Songdo] Dart Interoperability Part.1 (2023) [[Link]](https://festa.io/events/4246), [[Slide]](https://speakerdeck.com/itsmedreamwalker/devfest-2023-songdo-dart-interoperability-part-dot-1-bagjecang)
 - [HelloWorld 24] Go 언어로 쉽고 빠르게 서버 만들기 (2024) [[Link]](https://festa.io/events/4757), [[Slide]](https://speakerdeck.com/itsmedreamwalker/helloworld24-go-eoneoro-swibgo-bbareuge-seobeo-mandeulgi-bagjecang)
 - [Build with AI 2024 Seoul] 제로부터 시작하는 Flutter with Gemini 생활 (2024) [[Link]](https://festa.io/events/4777), [[Slide]](https://speakerdeck.com/itsmedreamwalker/build-with-ai-2024-seoul-jerobuteo-sijaghaneun-flutter-with-gemini-saenghwal-bagjecang)
+
 
 --- 
 
