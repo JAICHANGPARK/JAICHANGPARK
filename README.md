@@ -1,23 +1,3 @@
-<!--
-## Hi there 👋
-
-### Languages and Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-
-## 🐋 Tech Stack
-![Dart](https://img.shields.io/badge/dart-%23363636.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%23363636.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%23363636.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23363636.svg?style=for-the-badge&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/Go-%23363636.svg?style=for-the-badge&logo=go&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23363636.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Android](https://img.shields.io/badge/android-%23363636.svg?style=for-the-badge&logo=android&logoColor=white) ![Python](https://img.shields.io/badge/python-%23363636?style=for-the-badge&logo=python&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23363636.svg?style=for-the-badge&logo=figma&logoColor=white) 
--->
 
 [![](https://github.com/JAICHANGPARK/JAICHANGPARK/blob/master/chat.svg)](https://twitter.com/jaichangpark)
 
@@ -179,6 +159,9 @@
 - [DEVFEST 2023 Songdo] Dart Interoperability Part.1 (2023) [[Link]](https://festa.io/events/4246), [[Slide]](https://speakerdeck.com/itsmedreamwalker/devfest-2023-songdo-dart-interoperability-part-dot-1-bagjecang)
 - [HelloWorld 24] Go 언어로 쉽고 빠르게 서버 만들기 (2024) [[Link]](https://festa.io/events/4757), [[Slide]](https://speakerdeck.com/itsmedreamwalker/helloworld24-go-eoneoro-swibgo-bbareuge-seobeo-mandeulgi-bagjecang)
 - [Build with AI 2024 Seoul] 제로부터 시작하는 Flutter with Gemini 생활 (2024) [[Link]](https://festa.io/events/4777), [[Slide]](https://speakerdeck.com/itsmedreamwalker/build-with-ai-2024-seoul-jerobuteo-sijaghaneun-flutter-with-gemini-saenghwal-bagjecang)
+- [FlutterNinjas Tokyo 2024] Implementing a RAG System in Dart (2024) [[Link]](https://flutterninjas.dev/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/implementing-a-rag-system-in-dart-at-flutterninjas), [[Video]](https://youtu.be/J0uqfueJQI8?feature=shared)
+- [I/O Extended 2024 Incheon] Flutter gRPC (2024) [[Link]](https://festa.io/events/5477), [[Slide]](https://speakerdeck.com/itsmedreamwalker/songdo)
+- [DroidKaigi 2024] RAG with Mobile Application (2024) [[Link1]](https://2024.droidkaigi.jp/timetable/694524/),[[Link2]](https://2024.droidkaigi.jp/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/rag-with-mobile-application-droidkaigi-2024), [[Video]](https://youtu.be/9KwodZYINjA?feature=shared)
 
 
 --- 
@@ -214,27 +197,3 @@
 | <img src="https://play-lh.googleusercontent.com/WaYWPj1RHOc4FYQw1ESpnhQzooU_lnvu7lChAkh5VQTMME0SUXgVyaTxciOEfuCyXg=s180-rw" width="64"/>  | 당뇨그루-리마인더 | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesreminder)  | - | Native/Android | 🇰🇷 |
 | <img src="https://play-lh.googleusercontent.com/6EQAR5_DAI6tFqqiZy4EsumhkC2vUnBkPg2vhueegoYlZRd3YJaXDlwuQa605VL6pgk=s180-rw" width="64"/>  | DiabetesGuru(Foodie) | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesfoodypilot)  | - | Native/Android | 🇰🇷 |
 | <img src="https://play-lh.googleusercontent.com/NLv2SfKS42OXkuB9RGOvjjIWbtNXzP0gBtC-vzr1r5ya60i9ULqFbLltIkJuuBCSAyTt=s180-rw" width="64"/>  | DiabetesGuru-Fitness | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesfits)  | - | Native/Android | 🇰🇷 |
-
-
-<!--
-
-## GitHub Stats
-
-[![Dreamwalker's github stats](https://github-readme-stats.vercel.app/api?username=JAICHANGPARK&theme=material-palenight)](https://github.com/JAICHANGPARK/github-readme-stats)
--->
-
-<!--
-**JAICHANGPARK/JAICHANGPARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
