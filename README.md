@@ -71,10 +71,10 @@
 | S34	| 1701-1750 | [flutter_notebook_chapter_34](https://github.com/JAICHANGPARK/flutter_notebook_chapter_34) | [Flutter Live Coding S34](https://youtube.com/playlist?list=PLnz10ftgq9R99hP-S2qqdjsMYPz8b3nKM&feature=shared) |
 | S35	| 1751-1800 | [flutter_notebook_chapter_35](https://github.com/JAICHANGPARK/flutter_notebook_chapter_35) | [Flutter Live Coding S35](https://www.youtube.com/playlist?list=PLnz10ftgq9R_TgR3H2fn2Y5KVYf4OKvjW) |
 | S36	| 1801-1850 | [flutter_notebook_chapter_36](https://github.com/JAICHANGPARK/flutter_notebook_chapter_36) | [Flutter Live Coding S36](https://www.youtube.com/playlist?list=PLnz10ftgq9R80ukRGCDSEHcz7ZhnkowrZ) |
-| S37	| 1851-1900 | [flutter_notebook_chapter_38](https://github.com/JAICHANGPARK/flutter_notebook_chapter_37) | [Flutter Live Coding S37](https://www.youtube.com/playlist?list=PLnz10ftgq9R9dGa0eqzR4FcNekwi_5XrZ) |
-| S38	| 1900-1950 | [flutter_notebook_chapter_39](https://github.com/JAICHANGPARK/flutter_notebook_chapter_38) | [Flutter Live Coding S38](https://www.youtube.com/playlist?list=PLnz10ftgq9R_gvAYTfEcyp35T_cfAZgkw) |
-| S39	| 1951-2000 | [flutter_notebook_chapter_40](https://github.com/JAICHANGPARK/flutter_notebook_chapter_39) | [Flutter Live Coding S39](https://www.youtube.com/playlist?list=PLnz10ftgq9R86Ul7OvC8FUvCF_8MqyjL1) |
-| S40	| 2001- | [flutter_notebook_chapter_41](https://github.com/JAICHANGPARK/flutter_notebook_chapter_40) | [Flutter Live Coding S40](https://www.youtube.com/playlist?list=PLnz10ftgq9R8eftB2vH56xeY_KMJsWIWR) |
+| S37	| 1851-1900 | [flutter_notebook_chapter_37](https://github.com/JAICHANGPARK/flutter_notebook_chapter_37) | [Flutter Live Coding S37](https://www.youtube.com/playlist?list=PLnz10ftgq9R9dGa0eqzR4FcNekwi_5XrZ) |
+| S38	| 1900-1950 | [flutter_notebook_chapter_38](https://github.com/JAICHANGPARK/flutter_notebook_chapter_38) | [Flutter Live Coding S38](https://www.youtube.com/playlist?list=PLnz10ftgq9R_gvAYTfEcyp35T_cfAZgkw) |
+| S39	| 1951-2000 | [flutter_notebook_chapter_39](https://github.com/JAICHANGPARK/flutter_notebook_chapter_39) | [Flutter Live Coding S39](https://www.youtube.com/playlist?list=PLnz10ftgq9R86Ul7OvC8FUvCF_8MqyjL1) |
+| S40	| 2001- | [flutter_notebook_chapter_40](https://github.com/JAICHANGPARK/flutter_notebook_chapter_40) | [Flutter Live Coding S40](https://www.youtube.com/playlist?list=PLnz10ftgq9R8eftB2vH56xeY_KMJsWIWR) |
 
 
 <!--
