@@ -54,41 +54,10 @@
 | S37	| 1851-1900 | [flutter_notebook_chapter_37](https://github.com/JAICHANGPARK/flutter_notebook_chapter_37) | [Flutter Live Coding S37](https://www.youtube.com/playlist?list=PLnz10ftgq9R9dGa0eqzR4FcNekwi_5XrZ) |
 | S38	| 1900-1950 | [flutter_notebook_chapter_38](https://github.com/JAICHANGPARK/flutter_notebook_chapter_38) | [Flutter Live Coding S38](https://www.youtube.com/playlist?list=PLnz10ftgq9R_gvAYTfEcyp35T_cfAZgkw) |
 | S39	| 1951-2000 | [flutter_notebook_chapter_39](https://github.com/JAICHANGPARK/flutter_notebook_chapter_39) | [Flutter Live Coding S39](https://www.youtube.com/playlist?list=PLnz10ftgq9R86Ul7OvC8FUvCF_8MqyjL1) |
-| S40	| 2001- | [flutter_notebook_chapter_40](https://github.com/JAICHANGPARK/flutter_notebook_chapter_40) | [Flutter Live Coding S40](https://www.youtube.com/playlist?list=PLnz10ftgq9R8eftB2vH56xeY_KMJsWIWR) |
+| S40	| 2001-2050 | [flutter_notebook_chapter_40](https://github.com/JAICHANGPARK/flutter_notebook_chapter_40) | [Flutter Live Coding S40](https://www.youtube.com/playlist?list=PLnz10ftgq9R8eftB2vH56xeY_KMJsWIWR) |
+| S41	| 2051-2100 | [flutter_notebook_chapter_41](https://github.com/JAICHANGPARK/flutter_notebook_chapter_41) | [Flutter Live Coding S41](https://www.youtube.com/playlist?list=PLnz10ftgq9R9HmhOK92MEVUj-owukmZAc) |
+| S42	| 2100- | [flutter_notebook_chapter_42](https://github.com/JAICHANGPARK/flutter_notebook_chapter_42) | [Flutter Live Coding S42](https://www.youtube.com/playlist?list=PLnz10ftgq9R8U_Z8W8zUMW0K5KRYqze6a) |
 
-
-<!--
-### 🦄 Flutter 
-
-- BLE OTA with Esp32: [repo: flutter_esp32_bluetooth_ota](https://github.com/JAICHANGPARK/flutter_esp32_bluetooth_ota)
-- flutter_2fa_generator : [repo: flutter_2fa_generator](https://github.com/JAICHANGPARK/flutter_2fa_generator)
-- flutter_arduino_flash_tool: [repo: flutter_arduino_flash_tool](https://github.com/JAICHANGPARK/flutter_arduino_flash_tool)
-
-### 🎉 Flutter Packages
-
-- [horizontal_ratio_bar](https://github.com/JAICHANGPARK/horizontal_ratio_bar) : Go to [pub.dev](https://pub.dev/packages/horizontal_ratio_bar)
-- [Floor Chiper](https://github.com/JAICHANGPARK/floor_chiper) : based on floor with sqlcipher
-- [flutter_nearby_connections](https://github.com/JAICHANGPARK/flutter_nearby_connections) : Customization
-- [flutter_p2p](https://github.com/JAICHANGPARK/flutter_p2p) : Customization 
-- [android_identifier](https://github.com/JAICHANGPARK/android_identifier) : Customization
-- [flutter_bluetooth_switch](https://github.com/JAICHANGPARK/flutter_bluetooth_switch) : Customization 
-
-## 2. Data & ML
-- DataExperiment_Python: [repo](https://github.com/JAICHANGPARK/DataExperiment_Python)
-- workflow_automation: [repo](https://github.com/JAICHANGPARK/workflow_automation)
-- tensorflow-raspberrypi: [repo](https://github.com/JAICHANGPARK/tensorflow-raspberrypi)
-- Tensorflow_Win10" [repo](https://github.com/JAICHANGPARK/Tensorflow_Win10)
-- Reinforcement-Learning: [repo](https://github.com/JAICHANGPARK/Reinforcement-Learning)
-- Kaggle: [repo](https://github.com/JAICHANGPARK/Kaggle)
-- Neural_Network: [repo](https://github.com/JAICHANGPARK/Neural_Network)
-
-## 3. 🧶 Embedded
-
-### ESP-32
-
-- BLE OTA : [repo: esp32_ble_ota](https://github.com/JAICHANGPARK/esp32_ble_ota)
-- Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
---> 
 --- 
 
 ## 📃 Thesis
@@ -162,8 +131,8 @@
 - [FlutterNinjas Tokyo 2024] Implementing a RAG System in Dart (2024) [[Link]](https://flutterninjas.dev/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/implementing-a-rag-system-in-dart-at-flutterninjas), [[Video]](https://youtu.be/J0uqfueJQI8?feature=shared)
 - [I/O Extended 2024 Incheon] Flutter gRPC (2024) [[Link]](https://festa.io/events/5477), [[Slide]](https://speakerdeck.com/itsmedreamwalker/songdo)
 - [DroidKaigi 2024] RAG with Mobile Application (2024) [[Link1]](https://2024.droidkaigi.jp/timetable/694524/),[[Link2]](https://2024.droidkaigi.jp/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/rag-with-mobile-application-droidkaigi-2024), [[Video]](https://youtu.be/9KwodZYINjA?feature=shared)
-
-
+- [FlutterKaigi 2024] Seamless Flutter Native Integration: FFI & Pigeon (2024) [[Link1]](https://2024.flutterkaigi.jp/session/e97ebf37-5753-43c9-83ea-2be68e7a4363),[[Link2]](https://2024.flutterkaigi.jp/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/bagjecang-at-flutterkaigi2024), [[Video]](https://www.youtube.com/live/CE0NTGJLbS8?feature=shared&t=21702)
+- [Devfest 2024 Incheon / Songdo] Jaspr Dart Web Framwork (2024) [[Link1]](https://festa.io/events/6324), [[Slide]](https://speakerdeck.com/itsmedreamwalker/jaspr-dart-web-framwork-bagjecang-at-devfest-2024)
 --- 
 
 ## 🛒 Apps on Store
@@ -197,3 +166,37 @@
 | <img src="https://play-lh.googleusercontent.com/WaYWPj1RHOc4FYQw1ESpnhQzooU_lnvu7lChAkh5VQTMME0SUXgVyaTxciOEfuCyXg=s180-rw" width="64"/>  | 당뇨그루-리마인더 | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesreminder)  | - | Native/Android | 🇰🇷 |
 | <img src="https://play-lh.googleusercontent.com/6EQAR5_DAI6tFqqiZy4EsumhkC2vUnBkPg2vhueegoYlZRd3YJaXDlwuQa605VL6pgk=s180-rw" width="64"/>  | DiabetesGuru(Foodie) | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesfoodypilot)  | - | Native/Android | 🇰🇷 |
 | <img src="https://play-lh.googleusercontent.com/NLv2SfKS42OXkuB9RGOvjjIWbtNXzP0gBtC-vzr1r5ya60i9ULqFbLltIkJuuBCSAyTt=s180-rw" width="64"/>  | DiabetesGuru-Fitness | [Link](https://play.google.com/store/apps/details?id=com.dreamwalker.diabetesfits)  | - | Native/Android | 🇰🇷 |
+
+
+<!--
+### 🦄 Flutter 
+
+- BLE OTA with Esp32: [repo: flutter_esp32_bluetooth_ota](https://github.com/JAICHANGPARK/flutter_esp32_bluetooth_ota)
+- flutter_2fa_generator : [repo: flutter_2fa_generator](https://github.com/JAICHANGPARK/flutter_2fa_generator)
+- flutter_arduino_flash_tool: [repo: flutter_arduino_flash_tool](https://github.com/JAICHANGPARK/flutter_arduino_flash_tool)
+
+### 🎉 Flutter Packages
+
+- [horizontal_ratio_bar](https://github.com/JAICHANGPARK/horizontal_ratio_bar) : Go to [pub.dev](https://pub.dev/packages/horizontal_ratio_bar)
+- [Floor Chiper](https://github.com/JAICHANGPARK/floor_chiper) : based on floor with sqlcipher
+- [flutter_nearby_connections](https://github.com/JAICHANGPARK/flutter_nearby_connections) : Customization
+- [flutter_p2p](https://github.com/JAICHANGPARK/flutter_p2p) : Customization 
+- [android_identifier](https://github.com/JAICHANGPARK/android_identifier) : Customization
+- [flutter_bluetooth_switch](https://github.com/JAICHANGPARK/flutter_bluetooth_switch) : Customization 
+
+## 2. Data & ML
+- DataExperiment_Python: [repo](https://github.com/JAICHANGPARK/DataExperiment_Python)
+- workflow_automation: [repo](https://github.com/JAICHANGPARK/workflow_automation)
+- tensorflow-raspberrypi: [repo](https://github.com/JAICHANGPARK/tensorflow-raspberrypi)
+- Tensorflow_Win10" [repo](https://github.com/JAICHANGPARK/Tensorflow_Win10)
+- Reinforcement-Learning: [repo](https://github.com/JAICHANGPARK/Reinforcement-Learning)
+- Kaggle: [repo](https://github.com/JAICHANGPARK/Kaggle)
+- Neural_Network: [repo](https://github.com/JAICHANGPARK/Neural_Network)
+
+## 3. 🧶 Embedded
+
+### ESP-32
+
+- BLE OTA : [repo: esp32_ble_ota](https://github.com/JAICHANGPARK/esp32_ble_ota)
+- Android: [Play Store](https://play.google.com/store/apps/developer?id=JAICHANGPARK)
+--> 
