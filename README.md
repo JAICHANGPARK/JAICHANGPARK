@@ -138,6 +138,7 @@
 - [DroidKaigi 2024] RAG with Mobile Application (2024) [[Link1]](https://2024.droidkaigi.jp/timetable/694524/), [[Link2]](https://2024.droidkaigi.jp/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/rag-with-mobile-application-droidkaigi-2024), [[Video]](https://youtu.be/9KwodZYINjA?feature=shared)
 - [FlutterKaigi 2024] Seamless Flutter Native Integration: FFI & Pigeon (2024) [[Link1]](https://2024.flutterkaigi.jp/session/e97ebf37-5753-43c9-83ea-2be68e7a4363), [[Link2]](https://2024.flutterkaigi.jp/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/bagjecang-at-flutterkaigi2024), [[Video]](https://www.youtube.com/live/CE0NTGJLbS8?feature=shared&t=21702)
 - [Devfest 2024 Incheon / Songdo] Jaspr Dart Web Framwork (2024) [[Link1]](https://festa.io/events/6324), [[Slide]](https://speakerdeck.com/itsmedreamwalker/jaspr-dart-web-framwork-bagjecang-at-devfest-2024)
+- [Flutter In Production Extended Seoul] Pub workspaces로 monorepo 구성하기 (2025) [[Link1]](https://event-us.kr/flutterseoul/event/96401), [[Slide]](https://speakerdeck.com/itsmedreamwalker/pub-workspacesro-monorepo-guseonghagi-at-2025-flutter-in-production-bagjecang)
 --- 
 
 ## 🛒 Apps on Store
