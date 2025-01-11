@@ -102,6 +102,11 @@
   
 --- 
 
+## Interviews
+- 2024 [How Popular Is Flutter in Korea? Here's What the Flutter Seoul Organizer Says!](https://youtu.be/Tag-GmeF-2I?feature=shared)
+  
+--- 
+
 ## 🍕 Presentations
 - [DEVFEST SongDo 19"] (Flutter) Flutter로 IoT앱 개발기 (2019): [[Link]](https://youtu.be/inRfBJMCsQU), [[Repo]](https://github.com/JAICHANGPARK/devfest2019_songdo)
 - [Flutter Day Extended Korea] 이제 Null 안전하게 지켜줄게 (2020): [[Link]](https://youtu.be/h-LoVm6NMYs), [[Repo]](https://github.com/JAICHANGPARK/flutter_day_extended_seoul_2020)
