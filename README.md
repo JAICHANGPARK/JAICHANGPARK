@@ -56,7 +56,8 @@
 | S39	| 1951-2000 | [flutter_notebook_chapter_39](https://github.com/JAICHANGPARK/flutter_notebook_chapter_39) | [Flutter Live Coding S39](https://www.youtube.com/playlist?list=PLnz10ftgq9R86Ul7OvC8FUvCF_8MqyjL1) |
 | S40	| 2001-2050 | [flutter_notebook_chapter_40](https://github.com/JAICHANGPARK/flutter_notebook_chapter_40) | [Flutter Live Coding S40](https://www.youtube.com/playlist?list=PLnz10ftgq9R8eftB2vH56xeY_KMJsWIWR) |
 | S41	| 2051-2100 | [flutter_notebook_chapter_41](https://github.com/JAICHANGPARK/flutter_notebook_chapter_41) | [Flutter Live Coding S41](https://www.youtube.com/playlist?list=PLnz10ftgq9R9HmhOK92MEVUj-owukmZAc) |
-| S42	| 2100- | [flutter_notebook_chapter_42](https://github.com/JAICHANGPARK/flutter_notebook_chapter_42) | [Flutter Live Coding S42](https://www.youtube.com/playlist?list=PLnz10ftgq9R8U_Z8W8zUMW0K5KRYqze6a) |
+| S42	| 2100-2150 | [flutter_notebook_chapter_42](https://github.com/JAICHANGPARK/flutter_notebook_chapter_42) | [Flutter Live Coding S42](https://www.youtube.com/playlist?list=PLnz10ftgq9R8U_Z8W8zUMW0K5KRYqze6a) |
+| S43	| 2151- | [flutter_notebook_chapter_43](https://github.com/JAICHANGPARK/flutter_notebook_chapter_43) | [Flutter Live Coding S43](https://youtube.com/playlist?list=PLnz10ftgq9R9IjyVqfIcpfCUfdprpepra&feature=shared) |
 
 --- 
 
@@ -99,6 +100,12 @@
 ## Teaching Experiences
 - 2023 [15개 프로젝트로 실무까지 끝내는 Dart & Flutter 앱 개발, Fastcampus](https://fastcampus.co.kr/dev_online_dartflutter)
 - 2024 [Flutter 심화 프로젝트: 상태관리와 확장 가능한 앱 아키텍처 with BLoC & Riverpod, Fastcampus](https://fastcampus.co.kr/dev_online_flutterstate)
+  
+--- 
+
+## Mentoring
+- 2024 Mentor, Aiffel 8th(Modulabs), Flutter
+- 2025 Mentor, Aiffel 9th(Modulabs), Flutter, AI 
   
 --- 
 
