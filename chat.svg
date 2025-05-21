@@ -300,7 +300,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="340" height="66" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Flutter and Android Developer</text>
+      <text x="15" y="27">GDE Flutter&Dart</text>
+      <text x="15" y="47">Flutter and Android Developer</text>
   </g>
 
   <!-- typing 4 -->
