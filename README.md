@@ -106,7 +106,8 @@
 
 ## Mentoring
 - 2024 Mentor, Aiffel 8th(Modulabs), Flutter
-- 2025 Mentor, Aiffel 9th(Modulabs), Flutter, AI 
+- 2025 Mentor, Aiffel 9th(Modulabs), Flutter, AI
+- 2025 Mentor, Aiffel 10th(Modulabs), Flutter, AI 
   
 --- 
 
@@ -147,6 +148,7 @@
 - [FlutterKaigi 2024] Seamless Flutter Native Integration: FFI & Pigeon (2024) [[Link1]](https://2024.flutterkaigi.jp/session/e97ebf37-5753-43c9-83ea-2be68e7a4363), [[Link2]](https://2024.flutterkaigi.jp/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/bagjecang-at-flutterkaigi2024), [[Video]](https://www.youtube.com/live/CE0NTGJLbS8?feature=shared&t=21702)
 - [Devfest 2024 Incheon / Songdo] Jaspr Dart Web Framwork (2024) [[Link1]](https://festa.io/events/6324), [[Slide]](https://speakerdeck.com/itsmedreamwalker/jaspr-dart-web-framwork-bagjecang-at-devfest-2024)
 - [Flutter In Production Extended Seoul] Pub workspaces로 monorepo 구성하기 (2025) [[Link1]](https://event-us.kr/flutterseoul/event/96401), [[Slide]](https://speakerdeck.com/itsmedreamwalker/pub-workspacesro-monorepo-guseonghagi-at-2025-flutter-in-production-bagjecang)
+- [Build with AI for Everyone] Hands-on: Go 언어로 AI & Agents 서비스 개발하기: Langchain, Eino 활용까지 (2025) [[Link1]](https://event-us.kr/golangkorea/event/102929), [[Slide]](https://speakerdeck.com/itsmedreamwalker/2025-build-with-ai-for-everyone-hands-on-go-eoneoro-ai-and-agents-seobiseu-gaebalhagi-langchain-eino-hwalyongggaji-at-bagjecang), [[Code 1]](https://gist.github.com/JAICHANGPARK/3b20b277b52320386e439346863ae22c), [[Code 2]](https://gist.github.com/JAICHANGPARK/da30af4dcdf2684fa789fa6eae3d6622), [[Code 3]](https://gist.github.com/JAICHANGPARK/f0d4bde0fb066e70ce4b60fcfe949d38)
 --- 
 
 ## 🛒 Apps on Store
