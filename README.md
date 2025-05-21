@@ -1,5 +1,5 @@
 
-[![](https://github.com/JAICHANGPARK/JAICHANGPARK/blob/master/chat.svg)](https://twitter.com/jaichangpark)
+[![](https://raw.githubusercontent.com/JAICHANGPARK/JAICHANGPARK/refs/heads/master/chat.svg)](https://twitter.com/jaichangpark)
 
 
 ## 🌐 Socials
