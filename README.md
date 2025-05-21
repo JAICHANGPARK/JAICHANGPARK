@@ -58,7 +58,8 @@
 | S41	| 2051-2100 | [flutter_notebook_chapter_41](https://github.com/JAICHANGPARK/flutter_notebook_chapter_41) | [Flutter Live Coding S41](https://www.youtube.com/playlist?list=PLnz10ftgq9R9HmhOK92MEVUj-owukmZAc) |
 | S42	| 2100-2150 | [flutter_notebook_chapter_42](https://github.com/JAICHANGPARK/flutter_notebook_chapter_42) | [Flutter Live Coding S42](https://www.youtube.com/playlist?list=PLnz10ftgq9R8U_Z8W8zUMW0K5KRYqze6a) |
 | S43	| 2151-2200 | [flutter_notebook_chapter_43](https://github.com/JAICHANGPARK/flutter_notebook_chapter_43) | [Flutter Live Coding S43](https://youtube.com/playlist?list=PLnz10ftgq9R9IjyVqfIcpfCUfdprpepra&feature=shared) |
-| S44	| 2201 | [flutter_notebook_chapter_44](https://github.com/JAICHANGPARK/flutter_notebook_chapter_44) | [Flutter Live Coding S44](https://www.youtube.com/playlist?list=PLnz10ftgq9R-bCTb9OYv4DWCG-XXTQgHC) |
+| S44	| 2201-2250 | [flutter_notebook_chapter_44](https://github.com/JAICHANGPARK/flutter_notebook_chapter_44) | [Flutter Live Coding S44](https://www.youtube.com/playlist?list=PLnz10ftgq9R-bCTb9OYv4DWCG-XXTQgHC) |
+| S45	| 2251 | [flutter_notebook_chapter_45](https://github.com/JAICHANGPARK/flutter_notebook_chapter_45) | [Flutter Live Coding S45] |
 
 --- 
 
