@@ -109,7 +109,8 @@
 ## Mentoring
 - 2024 Mentor, Aiffel 8th(Modulabs), Flutter
 - 2025 Mentor, Aiffel 9th(Modulabs), Flutter, AI
-- 2025 Mentor, Aiffel 10th(Modulabs), Flutter, AI 
+- 2025 Mentor, Aiffel 10th(Modulabs), Flutter, AI
+- 2025 Mentor, Aiffel 12th(Modulabs), Flutter, AI 
   
 --- 
 
