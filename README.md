@@ -60,7 +60,8 @@
 | S42	| 2100-2150 | [flutter_notebook_chapter_42](https://github.com/JAICHANGPARK/flutter_notebook_chapter_42) | [Flutter Live Coding S42](https://www.youtube.com/playlist?list=PLnz10ftgq9R8U_Z8W8zUMW0K5KRYqze6a) |
 | S43	| 2151-2200 | [flutter_notebook_chapter_43](https://github.com/JAICHANGPARK/flutter_notebook_chapter_43) | [Flutter Live Coding S43](https://youtube.com/playlist?list=PLnz10ftgq9R9IjyVqfIcpfCUfdprpepra&feature=shared) |
 | S44	| 2201-2250 | [flutter_notebook_chapter_44](https://github.com/JAICHANGPARK/flutter_notebook_chapter_44) | [Flutter Live Coding S44](https://www.youtube.com/playlist?list=PLnz10ftgq9R-bCTb9OYv4DWCG-XXTQgHC) |
-| S45	| 2251 | [flutter_notebook_chapter_45](https://github.com/JAICHANGPARK/flutter_notebook_chapter_45) | [Flutter Live Coding S45] |
+| S45	| 2251-2300 | [flutter_notebook_chapter_45](https://github.com/JAICHANGPARK/flutter_notebook_chapter_45) | [Flutter Live Coding S45] |
+| S46	| 2301- | [flutter_notebook_chapter_46](https://github.com/JAICHANGPARK/flutter_notebook_chapter_46) | [Flutter Live Coding S46] |
 
 --- 
 
@@ -152,6 +153,7 @@
 - [Devfest 2024 Incheon / Songdo] Jaspr Dart Web Framwork (2024) [[Link1]](https://festa.io/events/6324), [[Slide]](https://speakerdeck.com/itsmedreamwalker/jaspr-dart-web-framwork-bagjecang-at-devfest-2024)
 - [Flutter In Production Extended Seoul] Pub workspaces로 monorepo 구성하기 (2025) [[Link1]](https://event-us.kr/flutterseoul/event/96401), [[Slide]](https://speakerdeck.com/itsmedreamwalker/pub-workspacesro-monorepo-guseonghagi-at-2025-flutter-in-production-bagjecang)
 - [Build with AI for Everyone] Hands-on: Go 언어로 AI & Agents 서비스 개발하기: Langchain, Eino 활용까지 (2025) [[Link1]](https://event-us.kr/golangkorea/event/102929), [[Slide]](https://speakerdeck.com/itsmedreamwalker/2025-build-with-ai-for-everyone-hands-on-go-eoneoro-ai-and-agents-seobiseu-gaebalhagi-langchain-eino-hwalyongggaji-at-bagjecang), [[Code 1]](https://gist.github.com/JAICHANGPARK/3b20b277b52320386e439346863ae22c), [[Code 2]](https://gist.github.com/JAICHANGPARK/da30af4dcdf2684fa789fa6eae3d6622), [[Code 3]](https://gist.github.com/JAICHANGPARK/f0d4bde0fb066e70ce4b60fcfe949d38)
+- [Google I/O Extended Incheon 2025] Hands-on: How to build Agentic Apps with Flutter (2025) [[Link1]](https://www.ticketa.co/events/7), [[Slide]](https://speakerdeck.com/itsmedreamwalker/hands-on-how-to-build-agentic-apps-with-flutter-at-bagjecang)
 --- 
 
 ## 🛒 Apps on Store
