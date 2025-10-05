@@ -60,9 +60,9 @@
 | S42	| 2100-2150 | [flutter_notebook_chapter_42](https://github.com/JAICHANGPARK/flutter_notebook_chapter_42) | [Flutter Live Coding S42](https://www.youtube.com/playlist?list=PLnz10ftgq9R8U_Z8W8zUMW0K5KRYqze6a) |
 | S43	| 2151-2200 | [flutter_notebook_chapter_43](https://github.com/JAICHANGPARK/flutter_notebook_chapter_43) | [Flutter Live Coding S43](https://youtube.com/playlist?list=PLnz10ftgq9R9IjyVqfIcpfCUfdprpepra&feature=shared) |
 | S44	| 2201-2250 | [flutter_notebook_chapter_44](https://github.com/JAICHANGPARK/flutter_notebook_chapter_44) | [Flutter Live Coding S44](https://www.youtube.com/playlist?list=PLnz10ftgq9R-bCTb9OYv4DWCG-XXTQgHC) |
-| S45	| 2251-2300 | [flutter_notebook_chapter_45](https://github.com/JAICHANGPARK/flutter_notebook_chapter_45) | [Flutter Live Coding S45] |
-| S46	| 2301-2350 | [flutter_notebook_chapter_46](https://github.com/JAICHANGPARK/flutter_notebook_chapter_46) | [Flutter Live Coding S46] |
-| S47	| 2351 | [flutter_notebook_chapter_47](https://github.com/JAICHANGPARK/flutter_notebook_chapter_47) | [Flutter Live Coding S47] |
+| S45	| 2251-2300 | [flutter_notebook_chapter_45](https://github.com/JAICHANGPARK/flutter_notebook_chapter_45) | [Flutter Live Coding S45](https://youtube.com/playlist?list=PLnz10ftgq9R9P6-e4OyTsY0VMT-UVc_NX&si=tr5_hejDxSJ7SxSi) |
+| S46	| 2301-2350 | [flutter_notebook_chapter_46](https://github.com/JAICHANGPARK/flutter_notebook_chapter_46) | [Flutter Live Coding S46](https://www.youtube.com/playlist?list=PLnz10ftgq9R-xhIcVYWkENQ82_fOe8BXq) |
+| S47	| 2351 | [flutter_notebook_chapter_47](https://github.com/JAICHANGPARK/flutter_notebook_chapter_47) | [Flutter Live Coding S47](https://www.youtube.com/playlist?list=PLnz10ftgq9R9lgLD_JmcWKDopqF8q_ncH) |
 
 --- 
 
@@ -118,6 +118,11 @@
 
 ## Interviews
 - 2024 [How Popular Is Flutter in Korea? Here's What the Flutter Seoul Organizer Says!](https://youtu.be/Tag-GmeF-2I?feature=shared)
+  
+--- 
+
+## Books
+- 2025 [플러터 엔지니어링](https://www.hanbit.co.kr/store/books/look.php?p_code=B4329421943), Translation
   
 --- 
 
