@@ -5,10 +5,9 @@
 ## 🌐 Socials
 [![SpeakerDeck Badge](https://img.shields.io/badge/SpeakerDeck-169389?style=for-the-badge&logo=SpeakerDeck&logoColor=white&link=https://speakerdeck.com/itsmedreamwalker)](https://speakerdeck.com/itsmedreamwalker) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/park-jaichang-40359a154)](https://www.linkedin.com/in/park-jaichang-40359a154/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aristojeff) [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) 
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&link=https://www.youtube.com/c/JAICHANGPARK/featured)](https://www.youtube.com/c/JAICHANGPARK/featured) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aristojeff) [![Qiita Badge](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=Qiita&link=https://qiita.com/Dreamwalker)](https://qiita.com/Dreamwalker) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&link=https://www.youtube.com/c/JAICHANGPARK/featured)](https://www.youtube.com/c/JAICHANGPARK/featured) 
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/itsmyowndreamwalker/)](https://www.instagram.com/itsmyowndreamwalker/) -->
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aristojeff@gmail.com)](mailto:aristojeff@gmail.com) 
+<!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aristojeff@gmail.com)](mailto:aristojeff@gmail.com) -->
 
 
 ## 🌊 Flutter
