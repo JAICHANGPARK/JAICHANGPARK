@@ -61,7 +61,8 @@
 | S44	| 2201-2250 | [flutter_notebook_chapter_44](https://github.com/JAICHANGPARK/flutter_notebook_chapter_44) | [Flutter Live Coding S44](https://www.youtube.com/playlist?list=PLnz10ftgq9R-bCTb9OYv4DWCG-XXTQgHC) |
 | S45	| 2251-2300 | [flutter_notebook_chapter_45](https://github.com/JAICHANGPARK/flutter_notebook_chapter_45) | [Flutter Live Coding S45](https://youtube.com/playlist?list=PLnz10ftgq9R9P6-e4OyTsY0VMT-UVc_NX&si=tr5_hejDxSJ7SxSi) |
 | S46	| 2301-2350 | [flutter_notebook_chapter_46](https://github.com/JAICHANGPARK/flutter_notebook_chapter_46) | [Flutter Live Coding S46](https://www.youtube.com/playlist?list=PLnz10ftgq9R-xhIcVYWkENQ82_fOe8BXq) |
-| S47	| 2351 | [flutter_notebook_chapter_47](https://github.com/JAICHANGPARK/flutter_notebook_chapter_47) | [Flutter Live Coding S47](https://www.youtube.com/playlist?list=PLnz10ftgq9R9lgLD_JmcWKDopqF8q_ncH) |
+| S47	| 2351-2400 | [flutter_notebook_chapter_47](https://github.com/JAICHANGPARK/flutter_notebook_chapter_47) | [Flutter Live Coding S47](https://www.youtube.com/playlist?list=PLnz10ftgq9R9lgLD_JmcWKDopqF8q_ncH) |
+| S48	| 2401- | [flutter_notebook_chapter_48](https://github.com/JAICHANGPARK/flutter_notebook_chapter_48) | [Flutter Live Coding S48](https://youtube.com/playlist?list=PLnz10ftgq9R9UjDIO76F5Y8JXCuPhDi6M&si=EhLXiyl4EjVDSrPQ) |
 
 --- 
 
@@ -161,6 +162,7 @@
 - [Google I/O Extended Incheon 2025] Hands-on: How to build Agentic Apps with Flutter (2025) [[Link1]](https://www.ticketa.co/events/7), [[Slide]](https://speakerdeck.com/itsmedreamwalker/hands-on-how-to-build-agentic-apps-with-flutter-at-bagjecang)
 - [Google I/O Extended Seoul 2025] Hands-on: Flutter로 Gemini와 MCP를 활용한 Agentic App 만들기 (2025) [[Link1]](https://event-us.kr/gdgseoul/event/108328), [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-seoul)
 - [Google I/O Extended Busan 2025] Flutter with Dart MCP: All You Need (2025) [[Link1]](https://event-us.kr/gdgbusan/event/110303), [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-busan)
+- [Flutter Alliance 2025] Getting Started with On-Device AI in Flutter [[Link1]](https://flutter-alliance.org/), [[Link2]](https://www.ticketa.co/events/27) [[Slide]](https://speakerdeck.com/itsmedreamwalker/getting-started-with-on-device-ai-in-flutter-flutter-alliance-2025)
 
 --- 
 
