@@ -164,6 +164,7 @@
 - [Google I/O Extended Busan 2025] Flutter with Dart MCP: All You Need (2025) [[Link1]](https://event-us.kr/gdgbusan/event/110303), [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-busan)
 - [Flutter Alliance 2025] Getting Started with On-Device AI in Flutter [[Link1]](https://flutter-alliance.org/), [[Link2]](https://www.ticketa.co/events/27) [[Slide]](https://speakerdeck.com/itsmedreamwalker/getting-started-with-on-device-ai-in-flutter-flutter-alliance-2025)
 - [FlutterKaigi 2025] オフライン対応！Flutterアプリに全文検索エンジンを実装する [[Link1]](https://2025.flutterkaigi.jp/),[[Slide]](https://speakerdeck.com/itsmedreamwalker/ohuraindui-ying-flutterahuriniquan-wen-jian-suo-ensinwoshi-zhuang-suru-at-flutterkaigi2025)
+- [Flutter Tokyo #11 2025] Flutter Thread Merge, スレッド統合について [[Link1]](https://flutter-jp.connpass.com/event/374220/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-thread-merge-flutter-tokyo-number-11)
 
 --- 
 
