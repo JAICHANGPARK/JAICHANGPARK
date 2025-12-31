@@ -62,7 +62,8 @@
 | S45	| 2251-2300 | [flutter_notebook_chapter_45](https://github.com/JAICHANGPARK/flutter_notebook_chapter_45) | [Flutter Live Coding S45](https://youtube.com/playlist?list=PLnz10ftgq9R9P6-e4OyTsY0VMT-UVc_NX&si=tr5_hejDxSJ7SxSi) |
 | S46	| 2301-2350 | [flutter_notebook_chapter_46](https://github.com/JAICHANGPARK/flutter_notebook_chapter_46) | [Flutter Live Coding S46](https://www.youtube.com/playlist?list=PLnz10ftgq9R-xhIcVYWkENQ82_fOe8BXq) |
 | S47	| 2351-2400 | [flutter_notebook_chapter_47](https://github.com/JAICHANGPARK/flutter_notebook_chapter_47) | [Flutter Live Coding S47](https://www.youtube.com/playlist?list=PLnz10ftgq9R9lgLD_JmcWKDopqF8q_ncH) |
-| S48	| 2401- | [flutter_notebook_chapter_48](https://github.com/JAICHANGPARK/flutter_notebook_chapter_48) | [Flutter Live Coding S48](https://youtube.com/playlist?list=PLnz10ftgq9R9UjDIO76F5Y8JXCuPhDi6M&si=EhLXiyl4EjVDSrPQ) |
+| S48	| 2401-2450 | [flutter_notebook_chapter_48](https://github.com/JAICHANGPARK/flutter_notebook_chapter_48) | [Flutter Live Coding S48](https://youtube.com/playlist?list=PLnz10ftgq9R9UjDIO76F5Y8JXCuPhDi6M&si=EhLXiyl4EjVDSrPQ) |
+| S49	| 2451- | [flutter_notebook_chapter_49](https://github.com/JAICHANGPARK/flutter_notebook_chapter_49) | [Flutter Live Coding S49]() |
 
 --- 
 
@@ -167,6 +168,8 @@
 - [Flutter Tokyo #11 2025] Flutter Thread Merge, スレッド統合について [[Link1]](https://flutter-jp.connpass.com/event/374220), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-thread-merge-flutter-tokyo-number-11)
 - [DevFest Cloud x Seoul 2025] Hands-on: Building AI Agents with Agent Develeopment Kit Go, [[Link]](https://event-us.kr/gdgseoul/event/116702), [[Slide]](https://speakerdeck.com/itsmedreamwalker/building-ai-agents-with-agent-develeopment-kit-go-at-devfest-cloud-x-seoul-2025), [[Code]](https://github.com/JAICHANGPARK/devfest-cloud-seoul-2025)
 - [DevFest Incheon 2025] Flutter On-device AI로 완성하는 오프라인 앱, [[Link]](https://www.ticketa.co/events/40), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-on-device-airo-wanseonghaneun-opeurain-aeb-bagjecang-at-devfest-incheon-2025)
+- [DevFest Daegu 2025] Flutter Agent App A to Z with Gemini, GenUI, A2UI, [[Link]](https://gdg.community.dev/events/details/google-gdg-daegu-presents-2025-devfest-daegugyeongbug-gaebaljadeulyi-gisul-ondoreul-ceugjeonghabnida/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/devfest-daegu-2025-flutter-agent-app-a-to-z-with-gemini-genui-bagjecang)
+
 
 --- 
 
