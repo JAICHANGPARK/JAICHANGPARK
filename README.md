@@ -9,6 +9,21 @@
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/itsmyowndreamwalker/)](https://www.instagram.com/itsmyowndreamwalker/) -->
 <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aristojeff@gmail.com)](mailto:aristojeff@gmail.com) -->
 
+## Current Projects
+- 📚 **[Open Codelabs](https://github.com/JAICHANGPARK/open-codelabs)** : Hands-on labs for AI × Flutter × Backend
+- 🧠 **[Nexus](https://github.com/JAICHANGPARK/nexus)** : Modular AI agent orchestration framework for production systems
+- 🦀 **[OpenRouter Rust](https://github.com/JAICHANGPARK/openrouter-rust)** : High-performance Rust SDK for OpenRouter API
+- 🎯 **[OpenResponses Dart](https://github.com/JAICHANGPARK/openresponses-dart)** : Dart client for OpenAI/OpenResponses-compatible APIs
+- ⚙️ **[OpenResponses Rust](https://github.com/JAICHANGPARK/openresponses-rust)** : Fast and reliable Rust implementation of OpenResponses API
+- 🤖 **[Flutter Agents Club](https://github.com/JAICHANGPARK/flutter_agents_club)** : Community-driven Flutter AI agent playground
+- 🎼 **[Flutter Composer](https://github.com/JAICHANGPARK/flutter_composer)** : Low-code style UI/flow composer for Flutter apps
+- 🎥 **[Face Blur Pro](https://github.com/JAICHANGPARK/face_blur_pro)** : On-device face detection & automatic blurring app
+- 🎙️ **[Flutter Gemini Live](https://github.com/JAICHANGPARK/flutter_gemini_live)** : Real-time voice & multimodal AI demo with Gemini
+- 🍜 **[fstrudel](https://github.com/JAICHANGPARK/fstrudel)** : Fast full-text search & RAG engine experiment
+- 🔍 **[Flutter Tantivy](https://github.com/JAICHANGPARK/flutter_tantivy)** : Full-text search bindings for Flutter via Tantivy
+- 🈶 **[Flutter Lindera + Tantivy](https://github.com/JAICHANGPARK/flutter_lindera_tantivy)** : Multilingual tokenizer + search engine integration
+- 🕹️ **[Flutter Infinite Dungeon](https://github.com/JAICHANGPARK/flutter-infinite-dungeon)** : Procedural roguelike game built with Flutter
+
 
 ## 🌊 Flutter
 ### Flutter Live Coding
@@ -63,7 +78,8 @@
 | S46	| 2301-2350 | [flutter_notebook_chapter_46](https://github.com/JAICHANGPARK/flutter_notebook_chapter_46) | [Flutter Live Coding S46](https://www.youtube.com/playlist?list=PLnz10ftgq9R-xhIcVYWkENQ82_fOe8BXq) |
 | S47	| 2351-2400 | [flutter_notebook_chapter_47](https://github.com/JAICHANGPARK/flutter_notebook_chapter_47) | [Flutter Live Coding S47](https://www.youtube.com/playlist?list=PLnz10ftgq9R9lgLD_JmcWKDopqF8q_ncH) |
 | S48	| 2401-2450 | [flutter_notebook_chapter_48](https://github.com/JAICHANGPARK/flutter_notebook_chapter_48) | [Flutter Live Coding S48](https://youtube.com/playlist?list=PLnz10ftgq9R9UjDIO76F5Y8JXCuPhDi6M&si=EhLXiyl4EjVDSrPQ) |
-| S49	| 2451- | [flutter_notebook_chapter_49](https://github.com/JAICHANGPARK/flutter_notebook_chapter_49) | [Flutter Live Coding S49]() |
+| S49	| 2451-2500 | [flutter_notebook_chapter_49](https://github.com/JAICHANGPARK/flutter_notebook_chapter_49) | [Flutter Live Coding S49]() |
+| S50	| 2501 | [flutter_notebook_chapter_50](https://github.com/JAICHANGPARK/flutter_notebook_chapter_50) | [Flutter Live Coding S50]() |
 
 --- 
 
