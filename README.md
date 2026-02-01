@@ -13,6 +13,7 @@
 - 📚 **[Open Codelabs](https://github.com/JAICHANGPARK/open-codelabs)** : Hands-on labs for AI × Flutter × Backend
 - 🧠 **[Nexus](https://github.com/JAICHANGPARK/nexus)** : Modular AI agent orchestration framework for production systems
 - 🦀 **[OpenRouter Rust](https://github.com/JAICHANGPARK/openrouter-rust)** : High-performance Rust SDK for OpenRouter API
+- 🎯 **[OpenRouter Dart](https://github.com/JAICHANGPARK/openrouter-dart)** : High-performance Dart SDK for OpenRouter API
 - 🎯 **[OpenResponses Dart](https://github.com/JAICHANGPARK/openresponses-dart)** : Dart client for OpenAI/OpenResponses-compatible APIs
 - ⚙️ **[OpenResponses Rust](https://github.com/JAICHANGPARK/openresponses-rust)** : Fast and reliable Rust implementation of OpenResponses API
 - 🤖 **[Flutter Agents Club](https://github.com/JAICHANGPARK/flutter_agents_club)** : Community-driven Flutter AI agent playground
