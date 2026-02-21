@@ -11,6 +11,7 @@
 
 ## Current Projects
 
+- 🐦 **[Kkachi](https://github.com/JAICHANGPARK/kkachi)** : Portable Top-1 greedy loop engine for coding agents
 - 🥝 **[Flutter Kiwi NLP](https://github.com/JAICHANGPARK/flutter_kiwi_nlp)** : Native-first Flutter plugin for Korean morphological analysis powered by Kiwi
 - 🦀🥝 **[kiwi-rs](https://github.com/JAICHANGPARK/kiwi-rs)** : Rust bindings for Kiwi via the official C API
 - 🧩 **[cypher_dart](https://github.com/JAICHANGPARK/cypher_dart)** : Pure Dart package for parsing/formatting Cypher queries (validation, editor feedback, normalized output)
