@@ -10,6 +10,11 @@
 <!--[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:aristojeff@gmail.com)](mailto:aristojeff@gmail.com) -->
 
 ## Current Projects
+
+- 🥝 **[Flutter Kiwi NLP](https://github.com/JAICHANGPARK/flutter_kiwi_nlp)** : Native-first Flutter plugin for Korean morphological analysis powered by Kiwi
+- 🦀🥝 **[kiwi-rs](https://github.com/JAICHANGPARK/kiwi-rs)** : Rust bindings for Kiwi via the official C API
+- 🧩 **[cypher_dart](https://github.com/JAICHANGPARK/cypher_dart)** : Pure Dart package for parsing/formatting Cypher queries (validation, editor feedback, normalized output)
+- 🕸️ **[flutter_cypher](https://github.com/JAICHANGPARK/flutter_cypher)** : Neo4j Cypher Workbench MVP monorepo
 - 📚 **[Open Codelabs](https://github.com/JAICHANGPARK/open-codelabs)** : Hands-on labs for AI × Flutter × Backend
 - 🧠 **[Nexus](https://github.com/JAICHANGPARK/nexus)** : Modular AI agent orchestration framework for production systems
 - 🦀 **[OpenRouter Rust](https://github.com/JAICHANGPARK/openrouter-rust)** : High-performance Rust SDK for OpenRouter API
