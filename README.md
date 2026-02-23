@@ -11,6 +11,9 @@
 
 ## Current Projects
 
+- 🧰 **[adk_dart](https://github.com/adk-labs/adk_dart)** : Dart-first port of the Agent Development Kit (ADK)
+- 🕸️ **[Taerae](https://github.com/JAICHANGPARK/taerae)** : Embedded, lightweight graph database for Dart & Flutter (local-first, no external GraphDB)
+- 🖥️ **[flutter_opentui](https://github.com/JAICHANGPARK/flutter_opentui)** : Monorepo for OpenTUI in Dart and Flutter
 - 🐦 **[Kkachi](https://github.com/JAICHANGPARK/kkachi)** : Portable Top-1 greedy loop engine for coding agents
 - 🥝 **[Flutter Kiwi NLP](https://github.com/JAICHANGPARK/flutter_kiwi_nlp)** : Native-first Flutter plugin for Korean morphological analysis powered by Kiwi
 - 🦀🥝 **[kiwi-rs](https://github.com/JAICHANGPARK/kiwi-rs)** : Rust bindings for Kiwi via the official C API
