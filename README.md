@@ -195,7 +195,9 @@
 - [DevFest Cloud x Seoul 2025] Hands-on: Building AI Agents with Agent Develeopment Kit Go, [[Link]](https://event-us.kr/gdgseoul/event/116702), [[Slide]](https://speakerdeck.com/itsmedreamwalker/building-ai-agents-with-agent-develeopment-kit-go-at-devfest-cloud-x-seoul-2025), [[Code]](https://github.com/JAICHANGPARK/devfest-cloud-seoul-2025)
 - [DevFest Incheon 2025] Flutter On-device AI로 완성하는 오프라인 앱, [[Link]](https://www.ticketa.co/events/40), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-on-device-airo-wanseonghaneun-opeurain-aeb-bagjecang-at-devfest-incheon-2025)
 - [DevFest Daegu 2025] Flutter Agent App A to Z with Gemini, GenUI, A2UI, [[Link]](https://gdg.community.dev/events/details/google-gdg-daegu-presents-2025-devfest-daegugyeongbug-gaebaljadeulyi-gisul-ondoreul-ceugjeonghabnida/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/devfest-daegu-2025-flutter-agent-app-a-to-z-with-gemini-genui-bagjecang)
-
+- [Build with AI & Hello World in Incheon 2026] Vibe하게 만드는 Flutter GenUI App With ADK [[Link]](https://gdg.community.dev/events/details/google-gdg-incheon-presents-build-with-ai-amp-hello-world-in-incheon-2026/), [[Slide]](https://speakerdeck.com/itsmedreamwalker/vibehage-mandeuneun-flutter-genui-app-with-adk-bagjecang-bwai-incheon-2026)
+- [Build with AI Golang Korea 2026] Gemini로 수학 해설 AI 에이전트 만들기, [[Link 1]](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-2026-build-with-ai-golang-korea/),[[Link 2]](https://ticketa.co/event/871axvkx), [[Material]](https://github.com/JAICHANGPARK/2026-bwai-golang-korea)
+- [Build with AI Seoul 2026 with Google DeepMind] Build Your Own AI Office with Gemma4, [[Link 1]](https://gdg.community.dev/events/details/google-gdg-seoul-presents-build-with-ai-seoul-2026-with-google-deepmind/),[[Link 2]](https://event-us.kr/gdgseoul/event/123992), [[Material]](https://github.com/JAICHANGPARK/2026-bwai-seoul), [[Slide]](https://speakerdeck.com/itsmedreamwalker/build-your-own-ai-office-with-gemma4-bagjecang-bwai-2026-seoul)
 
 --- 
 
