@@ -89,7 +89,11 @@
 | S47	| 2351-2400 | [flutter_notebook_chapter_47](https://github.com/JAICHANGPARK/flutter_notebook_chapter_47) | [Flutter Live Coding S47](https://www.youtube.com/playlist?list=PLnz10ftgq9R9lgLD_JmcWKDopqF8q_ncH) |
 | S48	| 2401-2450 | [flutter_notebook_chapter_48](https://github.com/JAICHANGPARK/flutter_notebook_chapter_48) | [Flutter Live Coding S48](https://youtube.com/playlist?list=PLnz10ftgq9R9UjDIO76F5Y8JXCuPhDi6M&si=EhLXiyl4EjVDSrPQ) |
 | S49	| 2451-2500 | [flutter_notebook_chapter_49](https://github.com/JAICHANGPARK/flutter_notebook_chapter_49) | [Flutter Live Coding S49]() |
-| S50	| 2501 | [flutter_notebook_chapter_50](https://github.com/JAICHANGPARK/flutter_notebook_chapter_50) | [Flutter Live Coding S50]() |
+| S50	| 2501-2550 | [flutter_notebook_chapter_50](https://github.com/JAICHANGPARK/flutter_notebook_chapter_50) | [Flutter Live Coding S50]() |
+| S51	| 2551-2600 | [flutter_notebook_chapter_51](https://github.com/JAICHANGPARK/flutter_notebook_chapter_51) | [Flutter Live Coding S51]() |
+| S52	| 2601-2650 | [flutter_notebook_chapter_52](https://github.com/JAICHANGPARK/flutter_notebook_chapter_52) | [Flutter Live Coding S52]() |
+| S53	| 2651- | [flutter_notebook_chapter_53](https://github.com/JAICHANGPARK/flutter_notebook_chapter_53) | [Flutter Live Coding S53]() |
+
 
 --- 
 
@@ -190,7 +194,7 @@
 - [Google I/O Extended Seoul 2025] Hands-on: Flutter로 Gemini와 MCP를 활용한 Agentic App 만들기 (2025) [[Link1]](https://event-us.kr/gdgseoul/event/108328), [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-seoul)
 - [Google I/O Extended Busan 2025] Flutter with Dart MCP: All You Need (2025) [[Link1]](https://event-us.kr/gdgbusan/event/110303), [[Slide]](https://speakerdeck.com/itsmedreamwalker/o-extended-busan)
 - [Flutter Alliance 2025] Getting Started with On-Device AI in Flutter [[Link1]](https://flutter-alliance.org/), [[Link2]](https://www.ticketa.co/events/27) [[Slide]](https://speakerdeck.com/itsmedreamwalker/getting-started-with-on-device-ai-in-flutter-flutter-alliance-2025)
-- [FlutterKaigi 2025] オフライン対応！Flutterアプリに全文検索エンジンを実装する [[Link1]](https://2025.flutterkaigi.jp/),[[Slide]](https://speakerdeck.com/itsmedreamwalker/ohuraindui-ying-flutterahuriniquan-wen-jian-suo-ensinwoshi-zhuang-suru-at-flutterkaigi2025)
+- [FlutterKaigi 2025] オフライン対応！Flutterアプリに全文検索エンジンを実装する [[Link1]](https://2025.flutterkaigi.jp/),[[Slide]](https://speakerdeck.com/itsmedreamwalker/ohuraindui-ying-flutterahuriniquan-wen-jian-suo-ensinwoshi-zhuang-suru-at-flutterkaigi2025), [[Video]](https://youtu.be/H8Jqr05kkbQ?si=i1LLS-mfulwokv58) 
 - [Flutter Tokyo #11 2025] Flutter Thread Merge, スレッド統合について [[Link1]](https://flutter-jp.connpass.com/event/374220), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-thread-merge-flutter-tokyo-number-11)
 - [DevFest Cloud x Seoul 2025] Hands-on: Building AI Agents with Agent Develeopment Kit Go, [[Link]](https://event-us.kr/gdgseoul/event/116702), [[Slide]](https://speakerdeck.com/itsmedreamwalker/building-ai-agents-with-agent-develeopment-kit-go-at-devfest-cloud-x-seoul-2025), [[Code]](https://github.com/JAICHANGPARK/devfest-cloud-seoul-2025)
 - [DevFest Incheon 2025] Flutter On-device AI로 완성하는 오프라인 앱, [[Link]](https://www.ticketa.co/events/40), [[Slide]](https://speakerdeck.com/itsmedreamwalker/flutter-on-device-airo-wanseonghaneun-opeurain-aeb-bagjecang-at-devfest-incheon-2025)
